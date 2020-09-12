@@ -7,10 +7,6 @@ authors:
 title: Margaret Samahita
 role: Assistant Professor
 avatar_filename: avatar.jpg.png
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:m.samahita@gmail.com
 user_groups:
   - ""
 ---
@@ -25,5 +21,3 @@ My [CV](https://margaretsamahita.netlify.app/files/cv.pdf)
 **Research Interests:** Behavioral Economics, Experimental Economics, Applied Microeconomics
 
 **Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
-
-**Contact:** m.samahita(at)gmail.com
