@@ -50,6 +50,29 @@ subtitle = ""
  css_class = ""
 +++
 
+## Journal Articles
+
+[What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
+
+[Pay-what-you-want in competition](https://margaretsamahita.netlify.app/files/samahita2019.pdf). **_The B.E. Journal of Theoretical Economics,_** 2019, 20(1).
+
+[Curating social image: experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. _Media:_ [press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image), [radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
+
+[Venting and gossiping in conflicts: verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003). **_Journal of Behavioral and Experimental Economics,_** 2017, 67:111-121.
+
+[Pay-what-you-want pricing schemes: a self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom Abraha Kahsay](https://sites.google.com/view/gakahsay/)). **_Journal of Behavioral and Experimental Finance,_** 2015, 7:17-28.
+
+[Effect of effort on self-image: monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.
+
+## Book Chapter
+
+
+## Working Papers
+
+
+## Work in Progress
+
+
 Welcome to the **Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
