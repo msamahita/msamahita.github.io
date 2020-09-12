@@ -1,28 +1,17 @@
 ---
 organizations:
   - name: University College Dublin
-    url: https://www.ucd.ie/
+    # url: https://www.ucd.ie/
 superuser: true
 authors:
   - admin
 title: Margaret Samahita
 role: Assistant Professor of Economics
 avatar_filename: avatar.jpg.png
-interests:
-  - Behavioral Economics
-  - Experimental Economics
-  - Applied Microeconomics
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:m.samahita@gmail.com
-  - icon_pack: ai
-    icon: cv
-    link: https://drive.google.com/file/d/1wj07RGXMNAxb_R9X4SFkxbne-v1fxfM0/view?usp=sharing
-  - icon_pack: ai
-    icon: ideas-repec
-    link: https://ideas.repec.org/f/psa1113.html
-email: ""
 user_groups:
   - Researchers
   - Visitors
