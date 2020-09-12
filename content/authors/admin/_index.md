@@ -7,9 +7,9 @@ authors:
   - admin
 title: Margaret Samahita
 role: Assistant Professor of Economics
-avatar_filename: 2019-vincent-hoban-round.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg.png
+bio: My research interests include Behavioral Economics, Experimental Economics,
+  Applied Microeconomics.
 interests:
   - Behavioral Economics
   - Experimental Economics
@@ -37,7 +37,7 @@ education:
       year: 2010
     - course: BSc in Mathematics
       institution: The University of Sydney
-      year: 2011
+      year: 2010
 email: margaretgn@gmail.com
 user_groups:
   - Researchers
