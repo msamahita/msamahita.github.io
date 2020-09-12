@@ -1,12 +1,11 @@
 ---
 organizations:
   - name: University College Dublin
-    # url: https://www.ucd.ie/
 superuser: true
 authors:
   - admin
 title: Margaret Samahita
-role: Assistant Professor of Economics
+role: Assistant Professor
 avatar_filename: avatar.jpg.png
 social:
   - icon: envelope
