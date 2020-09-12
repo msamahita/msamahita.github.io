@@ -20,4 +20,10 @@ My research is primarily in behavioural economics, where I use theoretical, empi
 
 I am a member of the [Behavioural Science & Policy Group](https://bsp.ucd.ie/) and an affiliated researcher at the [Connected_Politics Lab](https://www.ucd.ie/connected_politics/) at UCD.
 
+My [CV](https://margaretsamahita.netlify.app/files/cv.pdf)
+
 **Research Interests:** Behavioral Economics, Experimental Economics, Applied Microeconomics
+
+**Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
+
+**Contact:** m.samahita(at)gmail.com
