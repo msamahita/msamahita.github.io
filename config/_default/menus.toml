@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Teaching"
-  url = "#pages"
+  url = "#demo"
   weight = 40
   
   [[main]]
