@@ -8,8 +8,6 @@ authors:
 title: Margaret Samahita
 role: Assistant Professor of Economics
 avatar_filename: avatar.jpg.png
-bio: My research interests include Behavioral Economics, Experimental Economics,
-  Applied Microeconomics.
 interests:
   - Behavioral Economics
   - Experimental Economics
@@ -24,8 +22,6 @@ social:
   - icon_pack: ai
     icon: ideas-repec
     link: https://ideas.repec.org/f/psa1113.html
-education:
-  courses: []
 email: ""
 user_groups:
   - Researchers
