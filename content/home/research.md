@@ -31,8 +31,23 @@ title = "Publications"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = dark
 +++
+
+## Publications
+
+What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden (with Luis Mundaca). Energy Research & Social Science, 2020, 60:101319.
+
+Pay-what-you-want in competition. The B.E. Journal of Theoretical Economics, 2019, 20(1).
+
+Curating social image: experimental evidence on the value of actions and selfies (with Håkan J. Holm). Journal of Economic Behavior & Organization, 2018, 148:83-104. Media: press release, radio segment
+
+Venting and gossiping in conflicts: verbal expression in ultimatum games. Journal of Behavioral and Experimental Economics, 2017, 67:111-121.
+
+Pay-what-you-want pricing schemes: a self-image perspective (with Goytom Abraha Kahsay). Journal of Behavioral and Experimental Finance, 2015, 7:17-28.
+
+Effect of effort on self-image: monotonically increasing self-image functions. Economics Bulletin, 2013, 33(1):152-157.
+
 
 Welcome to the **Academic Kickstart** template!
 
