@@ -25,20 +25,8 @@ social:
     icon: ideas-repec
     link: https://ideas.repec.org/f/psa1113.html
 education:
-  courses:
-    - course: PhD in Economics
-      institution: Lund University
-      year: 2017
-    - course: MSc in Economics
-      institution: Lund University
-      year: 2012
-    - course: BCom in Economics and Finance
-      institution: The University of Sydney
-      year: 2010
-    - course: BSc in Mathematics
-      institution: The University of Sydney
-      year: 2010
-email: margaretgn@gmail.com
+  courses: []
+email: ""
 user_groups:
   - Researchers
   - Visitors
