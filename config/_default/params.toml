@@ -93,7 +93,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "School of Economics, University College Dublin", city = "Belfield", region = "", postcode = "Dublin 4", country = "Ireland", country_code = "IE"}
+# address = {street = "School of Economics, University College Dublin", city = "Belfield", region = "", postcode = "Dublin 4, Ireland", country = "Ireland", country_code = "IE"}
+addresss = "UCD School of Economics, Newman Building, University College Dublin, Belfield, Dublin 4, IRELAND"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
