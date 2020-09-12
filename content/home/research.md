@@ -64,18 +64,21 @@ subtitle = ""
 
 [Effect of effort on self-image: monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.
 
+&nbsp; 
 
 ## Book Chapter
 
 [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: a Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with Luis Mundaca, Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press.
 
+&nbsp; 
 
 ## Working Papers
 
-{{% staticref "files/pessimism_and_overcommitemnt.pdf" "newtab" %}}Pessimism and overcommitment{{% /staticref %}} (with [Claes Ek](https://sites.google.com/site/claesek/))
+{{% staticref "files/pessimism_and_overcommitment.pdf" "newtab" %}}Pessimism and overcommitment{{% /staticref %}} (with [Claes Ek](https://sites.google.com/site/claesek/))
 
 [Mining for mood effect in the field](https://swopec.hhs.se/lunewp/abs/lunewp2020_002.htm) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))
 
+&nbsp; 
 
 ## Work in Progress
 
