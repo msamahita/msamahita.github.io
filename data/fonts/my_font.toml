@@ -2,12 +2,10 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700"
+google_fonts = "Lato:400,700|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Lora"
+heading_font = "Lato"
 body_font = "Roboto"
-nav_font = "Lora"
-mono_font = "Cutive Mono"
-
-
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
