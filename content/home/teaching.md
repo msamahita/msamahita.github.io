@@ -52,9 +52,9 @@ subtitle = ""
 
 ## Current teaching
 
-[Experiments in Economics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42590) _(Autumn 2020)_ - Compulsory course in Master in Behavioural Economics. _(Lecturer for Laboratory Experiments part)_
+[Experiments in Economics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42590) **_(Autumn 2020)_** - Compulsory course in Master in Behavioural Economics. _(Lecturer for Laboratory Experiments part)_
 
-[Advanced Microeconomics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON41810&MAJR=W369) _(Spring 2021, Spring 2020)_ - Compulsory course in Master in Quantitative Economics.
+[Advanced Microeconomics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON41810&MAJR=W369) **(Spring 2021, Spring 2020)** - Compulsory course in Master in Quantitative Economics.
 
 [Decision Theory](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42630&MAJR=W369) _(Spring 2021, Spring 2020)_ - Elective course in Master’s program.
 
