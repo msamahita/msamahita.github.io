@@ -74,11 +74,7 @@ subtitle = ""
 
 ## Working Papers
 
-{{% staticref "files/pessimism_and_overcommitment.pdf" "newtab" %}}Pessimism and overcommitment{{% /staticref %}} (with [Claes Ek](https://sites.google.com/site/claesek/)) <details><summary>Abstract</summary>
-<p>
-Commitment devices are often proposed as solutions to self-control problems, but little attention has been given to the possibility of excess demand for commitment. We provide evidence for overcommitment in a laboratory experiment. Subjects face a tedious productivity task and a tempting option to surf the internet. After stating their willingness-to-pay for a commitment device that removes the option to surf, subjects are allocated commitment with some probability, thus allowing us to observe the behavior of subjects who demand commitment but still face temptation. We find that a significant share of subjects overestimate their commitment demand, as indicated by their willingness-to-pay, when compared to their realized material and psychological costs from facing the temptation. This overcommitment appears driven by pessimism in predicted performance under temptation. Although we find that undercommitment reduces welfare more than overcommitment, our results nevertheless suggest a need to consider the possibility that commitment could be harmful for some.
-</p>
-</details>
+{{% staticref "files/pessimism_and_overcommitment.pdf" "newtab" %}}Pessimism and overcommitment{{% /staticref %}} (with [Claes Ek](https://sites.google.com/site/claesek/))
 
 [Mining for mood effect in the field](https://swopec.hhs.se/lunewp/abs/lunewp2020_002.htm) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))
 
