@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "CV"
@@ -49,11 +49,5 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2019-04-30"
   
-  [[experience]]
-  title = "PhD Candidate"
-  company = "Department of Economics, Lund University"
-  company_url = ""
-  location = ""
-  date_start = "2012-09-01"
-  date_end = "2017-03-17"
+ 
 +++
