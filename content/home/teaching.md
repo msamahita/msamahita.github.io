@@ -23,18 +23,18 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = false
 
@@ -43,9 +43,9 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
@@ -59,3 +59,5 @@ subtitle = ""
 [Decision Theory](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42630&MAJR=W369) **(Spring 2021, Spring 2020)** - Elective course in Master’s program.
 
 [Behavioural Economics: Policy Implications](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42570) **(Spring 2021)** - Compulsory course in Master in Behavioural Economics.
+
+test
