@@ -86,7 +86,7 @@ Social Media and the formation of policy preferences: experimental evidence in t
 
 Metrics, interaction and influence: the immigration debate on social media (with Pierluigi Conzo, [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-Regulatory load and charitable-giving
+Regulatory load and charitable-giving (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
 Increasing female participation in economics (with [Orla Doyle](https://people.ucd.ie/orla.doyle))
 
