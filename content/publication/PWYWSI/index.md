@@ -14,7 +14,7 @@ publishDate: "2015"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Behavioral and Experimental Finance, 7*:17-28"
+publication: "*Journal of Behavioral and Experimental Finance, 7*:17--28"
 publication_short: ""
 
 # abstract: Pay-What-You-Want (PWYW) pricing schemes are becoming increasingly popular. We develop a model incorporating self-image into the buyer’s utility function and introduce heterogeneity in consumption utility and image-sensitivity, generating different purchase decisions and optimal prices across individuals. When a good’s fixed price is lower than a threshold fair value, PWYW can lead to a lower utility. This may result in a lower purchase rate and higher average price, accounting for previously unexplained field experimental evidence. An increase in the threshold value decreases the buyer’s utility and may further lower the purchase rate, resulting in a further increase in purchase price.
