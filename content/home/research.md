@@ -82,9 +82,9 @@ subtitle = ""
 
 ## Work in Progress
 
-Social Media and the formation of policy preferences: experimental evidence in the times of COVID-19 (with Pierluigi Conzo, [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+Social Media and the formation of policy preferences: experimental evidence in the times of COVID-19 (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-Metrics, interaction and influence: the immigration debate on social media (with Pierluigi Conzo, [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
 Regulatory load and charitable-giving (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
