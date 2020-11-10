@@ -82,14 +82,10 @@ subtitle = ""
 
 ## Work in Progress
 
-Social Media and the formation of policy preferences: experimental evidence in the times of COVID-19 (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+How Likes Change Minds: Social Media Endorsements and Policy Preferences (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
 Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
 Regulatory load and charitable-giving (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
-Increasing female participation in economics (with [Orla Doyle](https://people.ucd.ie/orla.doyle))
-
 Does perceived (in)competence of minority groups drive preference for affirmative action? (with Demid Getik and Marco Islam)
-
-Stocking up or putting off? Durability versus procrastination in explaining transitory effects in healthcare spending (with [Kevin Devereux](https://kevindevereux.com/))
