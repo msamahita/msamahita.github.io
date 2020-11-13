@@ -88,4 +88,4 @@ Metrics, interaction and influence: the immigration debate on social media (with
 
 Regulatory load and charitable-giving (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
-Does perceived (in)competence of minority groups drive preference for affirmative action? (with Demid Getik and Marco Islam)
+What drives preference for affirmative action? (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://portal.research.lu.se/portal/en/persons/marco-islam(dddd8d65-c48d-415f-9592-1f7564415eff).html))
