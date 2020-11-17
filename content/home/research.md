@@ -52,9 +52,9 @@ subtitle = ""
 
 ## Journal Articles
 
-[What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
+{{% staticref "files/samahita_2019.pdf" "newtab" %}}Pay-what-you-want in competition{{% /staticref %}}. **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063.
 
-{{% staticref "files/samahita_2019.pdf" "newtab" %}}Pay-what-you-want in competition{{% /staticref %}}. **_The B.E. Journal of Theoretical Economics,_** 2019, 20(1).
+[What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
 
 [Curating social image: experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. _Media:_ [press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image), [radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
 
