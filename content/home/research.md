@@ -78,11 +78,11 @@ subtitle = ""
 
 [Mining for mood effect in the field](https://swopec.hhs.se/lunewp/abs/lunewp2020_002.htm) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))
 
+[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+
 &nbsp; 
 
 ## Work in Progress
-
-Can ♥s change minds? Social media endorsements and policy preferences (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
 Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
