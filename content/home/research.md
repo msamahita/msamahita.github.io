@@ -56,19 +56,19 @@ subtitle = ""
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
 
-[Curating social image: experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. _Media:_ [press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image), [radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
+[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. _Media:_ [press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image), [radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
 
-[Venting and gossiping in conflicts: verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003). **_Journal of Behavioral and Experimental Economics,_** 2017, 67:111-121.
+[Venting and gossiping in conflicts: Verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003). **_Journal of Behavioral and Experimental Economics,_** 2017, 67:111-121.
 
-[Pay-what-you-want pricing schemes: a self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom Abraha Kahsay](https://sites.google.com/view/gakahsay/)). **_Journal of Behavioral and Experimental Finance,_** 2015, 7:17-28.
+[Pay-what-you-want pricing schemes: A self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom Abraha Kahsay](https://sites.google.com/view/gakahsay/)). **_Journal of Behavioral and Experimental Finance,_** 2015, 7:17-28.
 
-[Effect of effort on self-image: monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.
+[Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.
 
 &nbsp; 
 
 ## Book Chapter
 
-[Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: a Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with Luis Mundaca, Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press.
+[Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with Luis Mundaca, Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press.
 
 &nbsp; 
 
