@@ -78,14 +78,14 @@ subtitle = ""
 
 [Mining for mood effect in the field](https://swopec.hhs.se/lunewp/abs/lunewp2020_002.htm) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))
 
-[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Andrea Gallice](http://www.andreagallice.eu/))
+
+[The unintended side effects of regulating charities: Donors penalise administrative burden almost as much as overheads](https://www.ucd.ie/economics/t4media/WP21_06.pdf) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
 &nbsp; 
 
 ## Work in Progress
 
 Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
-
-The unintended side effects of regulating charities: Donors penalise administrative burden almost as much as overheads (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
 What drives preference for affirmative action? (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://portal.research.lu.se/portal/en/persons/marco-islam(dddd8d65-c48d-415f-9592-1f7564415eff).html))
