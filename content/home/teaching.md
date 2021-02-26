@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Current teaching
+## Current Teaching
 
 [Advanced Microeconomics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON41810&MAJR=W369) **(Spring 2021, Spring 2020)** - Compulsory course in Master in Quantitative Economics.
 
