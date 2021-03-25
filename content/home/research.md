@@ -89,3 +89,5 @@ subtitle = ""
 Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
 What drives preference for affirmative action? (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://portal.research.lu.se/portal/en/persons/marco-islam(dddd8d65-c48d-415f-9592-1f7564415eff).html))
+
+Cancelled: conformity or silence? (with [Juan S. Morales](http://sites.carloalberto.org/morales/))
