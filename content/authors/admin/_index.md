@@ -18,6 +18,6 @@ I am a member of the [Behavioural Science & Policy Group](https://bsp.ucd.ie/) a
 
 My {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}
 
-**Research Interests:** Behavioral Economics, Experimental Economics, Applied Microeconomics
+**Research Interests:** Behavioral Economics, Experimental Economics, Political Economy
 
 **Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
