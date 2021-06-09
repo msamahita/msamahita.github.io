@@ -92,4 +92,4 @@ Pessimism and overcommitment online (with [Claes Ek](https://sites.google.com/si
 
 Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-#Cancelled: conformity or silence? (with [Juan S. Morales](http://sites.carloalberto.org/morales/))
+<!-- Cancelled: conformity or silence? (with [Juan S. Morales](http://sites.carloalberto.org/morales/)) -->
