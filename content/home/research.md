@@ -78,7 +78,7 @@ subtitle = ""
 
 [Mining for mood effect in the field](https://swopec.hhs.se/lunewp/abs/lunewp2020_002.htm) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))
 
-[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Andrea Gallice](http://www.andreagallice.eu/))
+[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/))
 
 [The unintended side effects of regulating charities: Donors penalise administrative burden almost as much as overheads](https://www.ucd.ie/economics/t4media/WP21_06.pdf) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
@@ -90,6 +90,10 @@ subtitle = ""
 
 Pessimism and overcommitment online (with [Claes Ek](https://sites.google.com/site/claesek/))
 
-Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](http://sites.carloalberto.org/morales/) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-<!-- Cancelled: conformity or silence? (with [Juan S. Morales](http://sites.carloalberto.org/morales/)) -->
+Cancelled: conformity or silence? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
+
+Diversity in Economics (with [Kevin Devereux](https://kevindevereux.com/))
+
+Partisanship and the wisdom of crowds (with [Taha Yasseri](https://tahayasseri.com/))
