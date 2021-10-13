@@ -90,10 +90,10 @@ subtitle = ""
 
 Pessimism and overcommitment online (with [Claes Ek](https://sites.google.com/site/claesek/))
 
-Metrics, interaction and influence: the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-Cancelled: conformity or silence? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
+Does cancel culture stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 Diversity in Economics (with [Kevin Devereux](https://kevindevereux.com/))
 
-Partisanship and the wisdom of crowds (with [Taha Yasseri](https://tahayasseri.com/))
+Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
