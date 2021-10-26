@@ -82,7 +82,7 @@ subtitle = ""
 
 [The unintended side effects of regulating charities: Donors penalise administrative burden almost as much as overheads](https://www.ucd.ie/economics/t4media/WP21_06.pdf) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
-[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://portal.research.lu.se/portal/en/persons/marco-islam(dddd8d65-c48d-415f-9592-1f7564415eff).html))
+[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
 &nbsp; 
 
