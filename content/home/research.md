@@ -92,6 +92,8 @@ Understanding online influence: Experimental evidence from the immigration debat
 
 Does cancel culture stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
-Diversity in Economics (with [Kevin Devereux](https://kevindevereux.com/))
+Are economics conferences gender-neutral? Evidence from Ireland (with [Kevin Devereux](https://kevindevereux.com/))
+
+Men and women in Irish economic working papers series (with [Kevin Devereux](https://kevindevereux.com/))
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
