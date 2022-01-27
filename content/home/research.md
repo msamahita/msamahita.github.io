@@ -74,7 +74,7 @@ subtitle = ""
 
 ## Working Papers
 
-{{% staticref "files/pessimism_and_overcommitment.pdf" "newtab" %}}Pessimism and overcommitment{{% /staticref %}} (with [Claes Ek](https://sites.google.com/site/claesek/))
+[Pessimism and overcommitment: An online experiment with tempting YouTube content](https://www.ucd.ie/economics/t4media/WP22_03.pdf) (with [Claes Ek](https://sites.google.com/site/claesek/)) \[supersedes earlier draft [Pessimism and overcommitment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980519)\]
 
 [Mining for mood effect in the field](https://swopec.hhs.se/lunewp/abs/lunewp2020_002.htm) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))
 
@@ -87,8 +87,6 @@ subtitle = ""
 &nbsp; 
 
 ## Work in Progress
-
-Pessimism and overcommitment online (with [Claes Ek](https://sites.google.com/site/claesek/))
 
 Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
