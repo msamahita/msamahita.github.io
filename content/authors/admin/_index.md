@@ -23,3 +23,5 @@ My {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}
 **Research Interests:** Behavioral Economics, Experimental Economics, Political Economy
 
 **Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
+
+**New:** I am currently recruiting a PhD student for an externally funded project, details {{% staticref "files/offshore.pdf" "newtab" %}}here{{% /staticref %}}.
