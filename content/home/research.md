@@ -84,6 +84,8 @@ subtitle = ""
 
 [The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
+[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/))
+
 &nbsp; 
 
 ## Work in Progress
@@ -93,7 +95,5 @@ Understanding online influence: Experimental evidence from the immigration debat
 Does cancel culture stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 Are economics conferences gender-neutral? Evidence from Ireland (with [Kevin Devereux](https://kevindevereux.com/))
-
-Men and women in Irish economic working papers series (with [Kevin Devereux](https://kevindevereux.com/))
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
