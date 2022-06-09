@@ -24,4 +24,4 @@ My {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}
 
 **Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
 
-**New:** I am currently recruiting a PhD student for an externally funded project, details {{% staticref "files/offshore.pdf" "newtab" %}}here{{% /staticref %}}.
+<!--**New:** I am currently recruiting a PhD student for an externally funded project, details {{% staticref "files/offshore.pdf" "newtab" %}}here{{% /staticref %}}.-->
