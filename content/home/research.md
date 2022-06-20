@@ -92,7 +92,7 @@ subtitle = ""
 
 Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-Does cancel culture stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
+Does online backlash stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 Are economics conferences gender-neutral? Evidence from Ireland (with [Kevin Devereux](https://kevindevereux.com/))
 
