@@ -86,6 +86,8 @@ subtitle = ""
 
 [Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/))
 
+[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/))
+
 &nbsp; 
 
 ## Work in Progress
@@ -93,7 +95,5 @@ subtitle = ""
 Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
 Does online backlash stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
-
-Are economics conferences gender-neutral? Evidence from Ireland (with [Kevin Devereux](https://kevindevereux.com/))
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
