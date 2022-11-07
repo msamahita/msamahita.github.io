@@ -94,6 +94,6 @@ subtitle = ""
 
 Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
 
-Does online backlash stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
+Can online backlash stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
