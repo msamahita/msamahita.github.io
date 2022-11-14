@@ -97,3 +97,5 @@ Understanding online influence: Experimental evidence from the immigration debat
 Can online backlash stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
+
+Luxury beliefs: Signaling through ideology
