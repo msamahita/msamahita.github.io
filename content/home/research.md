@@ -98,4 +98,4 @@ Can online backlash stifle free speech? (with [Juan S. Morales](https://sites.go
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
 
-Luxury beliefs: Signaling through ideology
+"Luxury beliefs": Signaling through ideology
