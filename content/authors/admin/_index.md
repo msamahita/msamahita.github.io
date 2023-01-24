@@ -10,7 +10,7 @@ avatar_filename: avatar.jpg.png
 user_groups:
   - ""
 ---
-I am an Assistant Professor at the [School of Economics](https://www.ucd.ie/economics/), [University College Dublin](https://www.ucd.ie/) and a Research Fellow at the [Geary Institute for Public Policy](https://www.ucd.ie/geary/). I hold a PhD in Economics from [Lund University](https://nek.lu.se/en).
+I am Assistant Professor at the [School of Economics](https://www.ucd.ie/economics/), [University College Dublin](https://www.ucd.ie/) and a Research Fellow at the [Geary Institute for Public Policy](https://www.ucd.ie/geary/). I hold a PhD in Economics from [Lund University](https://nek.lu.se/en).
 
 My research is in behavioural economics, where I use theoretical, empirical and (primarily) experimental methods to study individual decision-making. My current research focuses on the effects of social influence on online behaviour and political preferences.
 
