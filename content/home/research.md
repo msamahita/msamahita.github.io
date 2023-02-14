@@ -98,6 +98,6 @@ Can online backlash stifle free speech? (with [Juan S. Morales](https://sites.go
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
 
-Anchoring and subjective belief distributions (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/)
+Anchoring and subjective belief distributions (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
 
 "Luxury beliefs": Signaling through ideology
