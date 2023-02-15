@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Journal Articles
 
-[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). Forthcoming in **_Journal of Economic Psychology._**
+[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612.
 
 {{% staticref "files/samahita_2019.pdf" "newtab" %}}Pay-what-you-want in competition{{% /staticref %}}. **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063.
 
