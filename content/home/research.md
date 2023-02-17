@@ -52,6 +52,8 @@ subtitle = ""
 
 ## Journal Articles
 
+[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38.
+
 [No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612.
 
 {{% staticref "files/samahita_2019.pdf" "newtab" %}}Pay-what-you-want in competition{{% /staticref %}}. **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063.
@@ -75,8 +77,6 @@ subtitle = ""
 &nbsp; 
 
 ## Working Papers
-
-[Pessimism and overcommitment: An online experiment with tempting YouTube content](https://www.ucd.ie/economics/t4media/WP22_03.pdf) (with [Claes Ek](https://sites.google.com/site/claesek/)) \[supersedes earlier draft [Pessimism and overcommitment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980519)\]
 
 [Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/))
 
