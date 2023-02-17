@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Journal Articles
 
-[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. {{% staticref "files/commitment_oa.pdf" "newtab" %}}Online appendices{{% /staticref %}}.
+[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. [{{% staticref "files/commitment_oa.pdf" "newtab" %}}online appendices{{% /staticref %}}]
 
 [No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612.
 
