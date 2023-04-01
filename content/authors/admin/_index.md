@@ -24,6 +24,6 @@ My {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}
 
 **Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
 
-**New:** I am currently recruiting a Postdoc in Energy, Behavioural and Experimental Economics, details {{% staticref "files/smartmeter.pdf" "newtab" %}}here{{% /staticref %}}.
+**New:** I am currently recruiting a Postdoc in Energy, Behavioural and Experimental Economics, details [here](https://www.aplitrak.com/?adid=ZS5rYXRzb3VyaS4wNzg5NC45OTA4QHVuaWNkdWJsaW4uYXBsaXRyYWsuY29t).
 
 <!--**New:** I am currently recruiting a PhD student for an externally funded project, details {{% staticref "files/offshore.pdf" "newtab" %}}here{{% /staticref %}}.-->
