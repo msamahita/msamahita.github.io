@@ -52,15 +52,15 @@ subtitle = ""
 
 ## Journal Articles
 
-[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. [{{% staticref "files/commitment_oa.pdf" "newtab" %}}online appendices{{% /staticref %}}] \[[twitter](https://twitter.com/msamahita/status/1628698387313827845?s=20)\]
+[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. [{{% staticref "files/commitment_oa.pdf" "newtab" %}}online appendices{{% /staticref %}}] _Media:_ [twitter](https://twitter.com/msamahita/status/1628698387313827845?s=20)
 
-[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612. \[[twitter](https://twitter.com/msamahita/status/1625131216788721665?s=20)\]
+[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612. _Media:_ [twitter](https://twitter.com/msamahita/status/1625131216788721665?s=20)
 
 {{% staticref "files/samahita_2019.pdf" "newtab" %}}Pay-what-you-want in competition{{% /staticref %}}. **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063.
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
 
-[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. \[[press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image)\], \[[radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)\]
+[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. _Media:_ [press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image), [radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
 
 [Venting and gossiping in conflicts: Verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003). **_Journal of Behavioral and Experimental Economics,_** 2017, 67:111-121.
 
@@ -78,15 +78,15 @@ subtitle = ""
 
 ## Working Papers
 
-[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/)) \[[twitter](https://twitter.com/msamahita/status/1357708725981708289?s=20)\]
+[Can ♥s change minds? Social media endorsements and policy preferences](https://www.ucd.ie/economics/t4media/WP21_04.pdf) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/)) _Media:_ [twitter](https://twitter.com/msamahita/status/1357708725981708289?s=20)
 
 [The unintended side effects of regulating charities: Donors penalise administrative burden almost as much as overheads](https://www.ucd.ie/economics/t4media/WP21_06.pdf) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
 [The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
-[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) \[[podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)\]
+[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) \[[podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)\]
+[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
 &nbsp; 
 
