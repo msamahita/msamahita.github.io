@@ -60,7 +60,7 @@ subtitle = ""
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
 
-[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. [[press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image)], [[radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)]
+[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. \[[press release](https://www.lusem.lu.se/news/people-are-willing-to-pay-to-curate-their-online-social-image)\], \[[radio segment](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)\]
 
 [Venting and gossiping in conflicts: Verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003). **_Journal of Behavioral and Experimental Economics,_** 2017, 67:111-121.
 
@@ -84,9 +84,9 @@ subtitle = ""
 
 [The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://portal.research.lu.se/portal/en/persons/demid-getik(9ed209c0-c635-4867-bcd7-df282c8ec077).html) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
-[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) [[podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)]
+[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) \[[podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)\]
 
-[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) [[podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)]
+[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) \[[podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)\]
 
 &nbsp; 
 
