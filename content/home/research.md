@@ -56,7 +56,7 @@ subtitle = ""
 
 [No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612. _Media:_ [twitter](https://twitter.com/msamahita/status/1625131216788721665?s=20)
 
-{{% staticref "files/samahita_2019.pdf" "newtab" %}}Pay-what-you-want in competition{{% /staticref %}}. **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063.
+[Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063. [{{% staticref "files/samahita_2019.pdf" "newtab" %}}pdf{{% /staticref %}}]
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
 
