@@ -80,6 +80,8 @@ subtitle = ""
 
 ## Working Papers
 
+[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
+
 [The unintended side effects of regulating charities: Donors penalise administrative burden almost as much as overheads](https://www.ucd.ie/economics/t4media/WP21_06.pdf) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
 [The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
@@ -93,8 +95,6 @@ subtitle = ""
 ## Work in Progress
 
 Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
-
-Can online backlash stifle free speech? (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
 
