@@ -58,7 +58,7 @@ subtitle = ""
 
 [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/)). **_Social Media + Society,_** 2023, 9(2). _Media:_ [twitter](https://twitter.com/msamahita/status/1357708725981708289?s=20)
 
-[Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration_** 2023, 6(1).
+[Compliance spending aversion: An unintended consequence of charity regulation](https://journal-bpa.org/index.php/jbpa/article/view/337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration_** 2023, 6(1).
 
 [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063. [{{% staticref "files/samahita_2019.pdf" "newtab" %}}pdf{{% /staticref %}}]
 
