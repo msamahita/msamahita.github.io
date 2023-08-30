@@ -52,10 +52,8 @@ subtitle = ""
 
 ## Current Teaching
 
-[Advanced Microeconomics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON41810&MAJR=W369) - MSc Economics.
+[Advanced Microeconomics](https://www.ucd.ie/modules/ECON41810) - MSc Economics.
 
-[Decision Theory](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42630&MAJR=W369) - MSc Economics.
+[Decision Theory](https://www.ucd.ie/modules/ECON42630) - MSc Economics.
 
-[Behavioural Economics: Policy Applications](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42570) - MSc Economics. _(Co-lecturer)_
-
-[Experiments in Economics](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=ECON42590) - MSc Economics. _(Co-lecturer)_
+[Economics of Gender and Diversity](https://www.ucd.ie/modules/ECON30590) - BSc Economics.
