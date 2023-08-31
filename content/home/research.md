@@ -82,9 +82,9 @@ subtitle = ""
 
 ## Working Papers
 
-[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Oxford Bulletin of Economics and Statistics_ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
+[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Oxford Bulletin of Economics and Statistics._ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Economics Bulletin_ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
+[Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Economics Bulletin._ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
