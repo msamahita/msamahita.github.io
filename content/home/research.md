@@ -82,13 +82,13 @@ subtitle = ""
 
 ## Working Papers
 
-[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
-
-[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
+[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Oxford Bulletin of Economics and Statistics_ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
 [Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Economics Bulletin_ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Oxford Bulletin of Economics and Statistics_ _Media:_ [podcast](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
+[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales))
+
+[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
 &nbsp; 
 
