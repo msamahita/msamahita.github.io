@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Journal Articles
 
-[Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)). **_Oxford Bulletin of Economics and Statistics,_** 2023. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
+[Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)). **_Oxford Bulletin of Economics and Statistics,_** 2023. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)  [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
 
 [Compliance spending aversion: An unintended consequence of charity regulation](https://journal-bpa.org/index.php/jbpa/article/view/337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration,_** 2023, 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
 
