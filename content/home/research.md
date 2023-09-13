@@ -52,13 +52,15 @@ subtitle = ""
 
 ## Journal Articles
 
-[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. {{% staticref "files/commitment_oa.pdf" "newtab" %}}[online appendices]{{% /staticref %}} [[twitter]](https://twitter.com/msamahita/status/1628698387313827845?s=20)
+[Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)) **_Oxford Bulletin of Economics and Statistics._** [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612. [[twitter]](https://twitter.com/msamahita/status/1625131216788721665?s=20)
+[Compliance spending aversion: An unintended consequence of charity regulation](https://journal-bpa.org/index.php/jbpa/article/view/337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration_** 2023, 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
 
 [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/)). **_Social Media + Society,_** 2023, 9(2). [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
 
-[Compliance spending aversion: An unintended consequence of charity regulation](https://journal-bpa.org/index.php/jbpa/article/view/337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration_** 2023, 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
+[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Psychology,_** 2023, 96:102612. [[twitter]](https://twitter.com/msamahita/status/1625131216788721665?s=20)
+
+[Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. {{% staticref "files/commitment_oa.pdf" "newtab" %}}[online appendices]{{% /staticref %}} [[twitter]](https://twitter.com/msamahita/status/1628698387313827845?s=20)
 
 [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063. {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
 
@@ -81,8 +83,6 @@ subtitle = ""
 &nbsp; 
 
 ## Working Papers
-
-[Are economics conferences gender-neutral? Evidence from Ireland](https://www.ucd.ie/economics/t4media/WP22_25.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Oxford Bulletin of Economics and Statistics._ [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
 [Gender, productivity, and promotion in the Irish economics profession](https://www.ucd.ie/economics/t4media/WP22_16.pdf) (with [Kevin Devereux](https://kevindevereux.com/)) _Accepted at Economics Bulletin._ [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
