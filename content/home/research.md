@@ -101,3 +101,9 @@ Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahaya
 Anchoring and subjective belief distributions (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
 
 "Luxury beliefs": Signaling through ideology
+
+Gender difference in evaluators' confidence (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
+
+Gender norms and preferential hiring (with [Orla Doyle](https://people.ucd.ie/orla.doyle) and [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/))
+
+
