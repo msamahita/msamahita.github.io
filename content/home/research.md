@@ -93,11 +93,11 @@ subtitle = ""
 
 &nbsp; 
 
-## Work in Progress
+## Selected Work in Progress
 
-Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/))
+<!--- Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/)) --->
 
-Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/))
+<!--- Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/)) --->
 
 Anchoring and subjective belief distributions (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
 
