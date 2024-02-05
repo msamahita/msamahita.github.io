@@ -16,7 +16,7 @@ My research is in behavioural economics, where I use theoretical, empirical and 
 
 <!-- In particular, I focus on the effects of social norms, social influence, self-image, social image, emotions and self-control. More recently, I am also interested in studying online political behaviour and how information shapes political preferences. -->
 
-I am a member of the [Behavioural Science & Policy Group](https://bsp.ucd.ie/) and an affiliated researcher at the [Connected_Politics Lab](https://www.ucd.ie/connected_politics/) at UCD.
+<!--I am a member of the [Behavioural Science & Policy Group](https://bsp.ucd.ie/) and an affiliated researcher at the [Connected_Politics Lab]-->(https://www.ucd.ie/connected_politics/) at UCD.
 
 My {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}}
 
