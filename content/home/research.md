@@ -95,7 +95,7 @@ subtitle = ""
 
 ## Selected Work in Progress
 
-<!--- Understanding online influence: Experimental evidence from the immigration debate on social media (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Laura K. Taylor](https://lauraktaylor.wordpress.com/)) --->
+Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 <!--- Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/)) --->
 
