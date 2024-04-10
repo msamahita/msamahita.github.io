@@ -87,6 +87,8 @@ subtitle = ""
 
 ## Working Papers
 
+[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
+
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
 [The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
@@ -98,8 +100,6 @@ subtitle = ""
 Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 <!--- Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/)) --->
-
-Anchoring and subjective belief distributions (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
 
 "Luxury beliefs": Signaling through ideology
 
