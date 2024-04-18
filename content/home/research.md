@@ -54,7 +54,7 @@ subtitle = ""
 
 [Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)). **_Oxford Bulletin of Economics and Statistics,_** 2024, 86(1):101-118. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)  [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
 
-[Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf) (with [Kevin Devereux](https://kevindevereux.com/)). **_Economics Bulletin,_** 2023, 43(3):104-114. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
+[Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf) (with [Kevin Devereux](https://kevindevereux.com/)). **_Economics Bulletin,_** 2023, 43(3):1225-1234. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
 [Compliance spending aversion: An unintended consequence of charity regulation](https://journal-bpa.org/index.php/jbpa/article/view/337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration,_** 2023, 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
 
