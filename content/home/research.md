@@ -103,8 +103,6 @@ Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pie
 
 <!--- Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/)) --->
 
-"Luxury beliefs": Signaling through ideology
-
 Gender difference in evaluators' confidence (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
 
 Gender norms and preferential hiring (with [Orla Doyle](https://people.ucd.ie/orla.doyle) and [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/))
