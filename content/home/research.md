@@ -64,10 +64,6 @@ subtitle = ""
 
 [Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/)). **_Journal of Economic Behavior & Organization,_** 2023, 208:21-38. {{% staticref "files/commitment_oa.pdf" "newtab" %}}[online appendices]{{% /staticref %}} [[twitter]](https://twitter.com/msamahita/status/1628698387313827845?s=20)
 
-![online appendices](/commitment_oa.pdf)
-<embed src = "/commitment_oa.pdf">
-
-
 [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063. {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
