@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: University College Dublin
+  - name: School of Economics University College Dublin
 superuser: true
 authors:
   - admin
