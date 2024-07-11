@@ -50,6 +50,20 @@ subtitle = ""
  css_class = ""
 +++
 
+## Working Papers
+
+[Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274) (with [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/) and [Orla Doyle](https://people.ucd.ie/orla.doyle))
+
+["Luxury beliefs": Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf)
+
+[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
+
+[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
+
+[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
+
+&nbsp; 
+
 ## Journal Articles
 
 [Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)). **_Oxford Bulletin of Economics and Statistics,_** 2024, 86(1):101-118. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)  [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
@@ -81,20 +95,6 @@ subtitle = ""
 ## Book Chapter
 
 [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with Luis Mundaca, Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press.
-
-&nbsp; 
-
-## Working Papers
-
-[Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274) (with [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/) and [Orla Doyle](https://people.ucd.ie/orla.doyle))
-
-["Luxury beliefs": Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf)
-
-[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
-
-[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
-
-[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
 &nbsp; 
 
