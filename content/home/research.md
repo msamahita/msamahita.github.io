@@ -86,7 +86,7 @@ subtitle = ""
 
 ## Working Papers
 
-[Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274) (with [Orla Doyle](https://people.ucd.ie/orla.doyle) and [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/))
+[Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274) (with [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/) and [Orla Doyle](https://people.ucd.ie/orla.doyle))
 
 ["Luxury beliefs": Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf)
 
