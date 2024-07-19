@@ -60,7 +60,7 @@ subtitle = ""
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
-[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://sites.google.com/view/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
+[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
 
 &nbsp; 
 
