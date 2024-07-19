@@ -80,7 +80,7 @@ subtitle = ""
 
 [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 2020, 20(1):20180063. {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
 
-[What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with Luis Mundaca). **_Energy Research & Social Science,_** 2020, 60:101319.
+[What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with [Luis Mundaca](https://www.iiiee.lu.se/luis-mundaca)). **_Energy Research & Social Science,_** 2020, 60:101319.
 
 [Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. <!--[[radio]](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)-->
 
@@ -94,7 +94,7 @@ subtitle = ""
 
 ## Book Chapter
 
-[Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with Luis Mundaca, Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press.
+[Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with [Luis Mundaca](https://www.iiiee.lu.se/luis-mundaca), Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press.
 
 &nbsp; 
 
