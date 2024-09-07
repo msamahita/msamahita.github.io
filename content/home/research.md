@@ -64,7 +64,7 @@ subtitle = ""
 
 ## Journal Articles
 
-{{% staticref "files/aamanuscript.pdf" "newtab" %}}[The inelastic demand for affirmative action]{{% /staticref %}} (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/)). **_European Economic Review,_** _accepted for publication_.
+{{% staticref "files/aamanuscript.pdf" "newtab" %}}The inelastic demand for affirmative action{{% /staticref %}} (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/)). **_European Economic Review,_** _accepted for publication_.
 
 [Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)). **_Oxford Bulletin of Economics and Statistics,_** 2024, 86(1):101-118. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)  [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
 
