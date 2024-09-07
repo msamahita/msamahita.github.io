@@ -60,11 +60,11 @@ subtitle = ""
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
-[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/))
-
 &nbsp; 
 
 ## Journal Articles
+
+[The inelastic demand for affirmative action](https://www.ucd.ie/economics/t4media/WP21_12.pdf) (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/) and [Marco Islam](https://sites.google.com/view/marcoislam/)). **_European Economic Review,_** _accepted for publication_.
 
 [Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575) (with [Kevin Devereux](https://kevindevereux.com/)). **_Oxford Bulletin of Economics and Statistics,_** 2024, 86(1):101-118. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)  [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
 
