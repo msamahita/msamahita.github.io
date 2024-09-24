@@ -52,13 +52,13 @@ subtitle = ""
 
 ## Working Papers
 
-[Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274) (with [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/) and [Orla Doyle](https://people.ucd.ie/orla.doyle))
-
 ["Luxury beliefs": Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf)
+
+[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
 [Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
 
-[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
+[Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274) (with [Manuel Estevo Lago Rodríguez](https://sites.google.com/view/manuelestevolago/) and [Orla Doyle](https://people.ucd.ie/orla.doyle))
 
 &nbsp; 
 
