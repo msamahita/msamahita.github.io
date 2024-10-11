@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Working Papers
 
-{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}["Luxury beliefs": Signaling through ideology?]{{% /staticref %}}
+{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}}
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
