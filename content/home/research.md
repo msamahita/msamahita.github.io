@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Working Papers
 
-["Luxury beliefs": Signaling through ideology?](https://www.ucd.ie/economics/t4media/WP2024_10.pdf)
+{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}["Luxury beliefs": Signaling through ideology?]{{% /staticref %}}
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
@@ -82,7 +82,7 @@ subtitle = ""
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with [Luis Mundaca](https://www.iiiee.lu.se/luis-mundaca)). **_Energy Research & Social Science,_** 2020, 60:101319.
 
-[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. <!--[[radio]](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)-->
+[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/)). **_Journal of Economic Behavior & Organization,_** 2018, 148:83-104. [[radio]](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
 
 [Venting and gossiping in conflicts: Verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003). **_Journal of Behavioral and Experimental Economics,_** 2017, 67:111-121.
 
