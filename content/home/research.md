@@ -70,7 +70,7 @@ subtitle = ""
 
 [Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf) (with [Kevin Devereux](https://kevindevereux.com/)). **_Economics Bulletin,_** 2023, 43(3):1225-1234. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-[Compliance spending aversion: An unintended consequence of charity regulation](https://journal-bpa.org/index.php/jbpa/article/view/337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration,_** 2023, 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
+[Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home)). **_Journal of Behavioral Public Administration,_** 2023, 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
 
 [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) and [Andrea Gallice](http://www.andreagallice.eu/)). **_Social Media + Society,_** 2023, 9(2). Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}. [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
 
