@@ -106,7 +106,7 @@ Samahita, M., & [Holm, H. J.](https://sites.google.com/site/hakanjholm/) (2023).
 
 [Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca), & Samahita, M. (2020). [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319). **_Energy Research & Social Science,_** 60:101319.
 
-Samahita, M. (2019). [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 20(1):20180063. {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
+Samahita, M. (2020). [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). **_The B.E. Journal of Theoretical Economics,_** 20(1):20180063. {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
 
 [Holm, H. J.](https://sites.google.com/site/hakanjholm/), & Samahita, M. (2018). [Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008). **_Journal of Economic Behavior & Organization,_** 148:83-104. [[radio]](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
 
