@@ -96,7 +96,7 @@ Samahita, M., & [Devereux, K.](https://kevindevereux.com/) (2024). [Are economic
 
 [Devereux, K.](https://kevindevereux.com/), & Samahita, M. (2023). [Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf). **_Economics Bulletin,_** 43(3):1225-1234. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-Samahita, M., & [Lades, L.](https://sites.google.com/site/leonhardklades/home) (2023). [Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337). **_Journal of Behavioral Public Administration,_** 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
+Samahita, M., & [Lades, L. K.](https://sites.google.com/site/leonhardklades/home) (2023). [Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337). **_Journal of Behavioral Public Administration,_** 6(1). [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
 
 [Conzo, P.](http://www.pieroconzo.altervista.org/wordpress/) ⓡ [Taylor, L. K.](https://lauraktaylor.wordpress.com/) ⓡ [Morales, J. S.](https://sites.google.com/view/jsmorales) ⓡ Samahita, M. ⓡ [Gallice, A.](http://www.andreagallice.eu/) (2023). [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899). **_Social Media + Society,_** 9(2). Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}. [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
 
