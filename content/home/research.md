@@ -96,7 +96,7 @@ subtitle = ""
 
 <!--[Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1) (with [Luis Mundaca](https://www.iiiee.lu.se/luis-mundaca), Jonas Sonnenschein and Roman Seidl). In M. Lopes, C. Henggeler Antunes and K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** 2020, 45-87. London: Academic Press. -->
 
-[Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca), Samahita, M., Sonnenschein, J. & Seidl, R. (2020). [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1). In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_**, (pp. 45–87). London: Academic Press.
+[Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca), Samahita, M., Sonnenschein, J. & Seidl, R. (2020). [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1). In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), **_Energy and Behavior: Towards a Low Carbon Future,_** pp. 45–87. London: Academic Press.
 
 &nbsp; 
 
