@@ -90,9 +90,9 @@ subtitle = ""
 
 [Lago, M. E.](https://sites.google.com/view/manuelestevolago/), [Doyle, O.](https://people.ucd.ie/orla.doyle), & Samahita, M. (2025). [Unraveling gender norms: Personal and social norms in the preferential promotion of women](https://dx.doi.org/10.2139/ssrn.4889274). **_Journal of Behavioral and Experimental Economics,_** forthcoming.
 
-[Getik, D.](https://www.durham.ac.uk/business/our-people/demid-getik/), [Islam, M.](https://sites.google.com/view/marcoislam/), & Samahita, M. (2024). [The inelastic demand for affirmative action](https://doi.org/10.1016/j.euroecorev.2024.104862). **_European Economic Review,_** 170:104862.
+[Getik, D.](https://www.durham.ac.uk/business/our-people/demid-getik/), [Islam, M.](https://sites.google.com/view/marcoislam/), & Samahita, M. (2024). [The inelastic demand for affirmative action](https://doi.org/10.1016/j.euroecorev.2024.104862). **_European Economic Review,_** 170:104862. [[twitter]](https://x.com/msamahita/status/1838574632204370175)
 
-Samahita, M., & [Devereux, K.](https://kevindevereux.com/) (2024). [Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575). **_Oxford Bulletin of Economics and Statistics,_** 86(1):101-118. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)  [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
+Samahita, M., & [Devereux, K.](https://kevindevereux.com/) (2024). [Are economics conferences gender-neutral? Evidence from Ireland](https://doi.org/10.1111/obes.12575). **_Oxford Bulletin of Economics and Statistics,_** 86(1):101-118. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii) [[twitter]](https://x.com/msamahita/status/1701970545913352507?s=20)
 
 [Devereux, K.](https://kevindevereux.com/), & Samahita, M. (2023). [Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf). **_Economics Bulletin,_** 43(3):1225-1234. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
