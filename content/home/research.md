@@ -90,7 +90,7 @@ subtitle = ""
 
 
 
-[Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). **_Journal of Behavioral and Experimental Economics,_** forthcoming.
+[Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). **_Journal of Behavioral and Experimental Economics,_**  115:102336.
 
 [Getik, D.](https://www.durham.ac.uk/business/our-people/demid-getik/), [Islam, M.](https://sites.google.com/view/marcoislam/), & Samahita, M. (2024). [The inelastic demand for affirmative action](https://doi.org/10.1016/j.euroecorev.2024.104862). **_European Economic Review,_** 170:104862. [[twitter]](https://x.com/msamahita/status/1838574632204370175)
 
