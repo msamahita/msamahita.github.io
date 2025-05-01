@@ -52,6 +52,8 @@ subtitle = ""
 
 ## Working Papers
 
+[Confident, but undervalued: Evidence from the Irish Economic Association Conference](https://www.ucd.ie/economics/t4media/WP2025_12.pdf) (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
+
 {{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}}
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
@@ -89,8 +91,6 @@ subtitle = ""
 [Pay-what-you-want pricing schemes: A self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom Abraha Kahsay](https://sites.google.com/view/gakahsay/)). **_Journal of Behavioral and Experimental Finance,_** 2015, 7:17-28.
 
 [Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.-->
-
-
 
 [Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). **_Journal of Behavioral and Experimental Economics,_**  115:102336.
 
@@ -131,8 +131,6 @@ Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing s
 &nbsp; 
 
 ## Selected Work in Progress
-
-Confident, but undervalued: Evidence from the Irish Economic Association Conference (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
 
 Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
