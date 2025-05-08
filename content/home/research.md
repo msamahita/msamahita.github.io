@@ -60,7 +60,7 @@ subtitle = ""
 
 [Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))
 
-[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)
+<!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
 
 &nbsp; 
 
