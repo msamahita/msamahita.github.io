@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Working Papers
 
-{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review"{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
+{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
 
 {{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}}
 
