@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Working Papers
 
-[Confident, but undervalued: Evidence from the Irish Economic Association Conference](https://www.ucd.ie/economics/t4media/WP2025_12.pdf) (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
+{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review"{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/))
 
 {{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}}
 
