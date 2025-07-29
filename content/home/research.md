@@ -132,9 +132,13 @@ Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing s
 
 ## Selected Work in Progress
 
-Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
+Rebalancing work: Gender perception, job design, and occupational dynamics (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/), [Petra Thiemann](https://www.petrathiemann.com/) and [James Nunn](https://www.linkedin.com/in/james-nunn-00281b15))
 
-Who suffers from sludge? (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin) and [Martin Bækgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk))
+Who is most influenced by sludge? Experimental evidence (with [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a) and [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
+
+Vulnerability to and acceptability of different types of sludge (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin), [Cass Sunstein](https://hls.harvard.edu/faculty/cass-r-sunstein/) and [Martin Bækgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk))
+
+Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 <!--- Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/)) --->
 
