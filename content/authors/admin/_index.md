@@ -7,7 +7,7 @@ authors:
   - admin
 title: Margaret Samahita
 role: Assistant Professor
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 user_groups:
   - ""
 ---
