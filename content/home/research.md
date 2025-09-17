@@ -132,7 +132,7 @@ Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing s
 
 ## Selected Work in Progress
 
-Rebalancing work: Gender perception, job design, and occupational dynamics (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/), [Petra Thiemann](https://www.petrathiemann.com/) and [James Nunn](https://www.linkedin.com/in/james-nunn-00281b15))
+Rebalancing work: Gender perception, job design, and occupational dynamics (with [Petru Calenici](https://www.linkedin.com/in/petru-calenici/) and [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/))
 
 Who is most influenced by sludge? Experimental evidence (with [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a) and [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
