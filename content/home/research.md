@@ -52,15 +52,15 @@ subtitle = ""
 
 ## Working Papers
 
-{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) **_Reject and Resubmit at Journal of Human Resources_**
+{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) _Reject and Resubmit at Journal of Human Resources_
 
-{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}}
+{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}} _Submitted_
 
-[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
+[Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20) _Submitted_
 
-[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/)) **_Revise and Resubmit at Journal of Economic Behavior & Organization_**
+[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/)) _Revise and Resubmit at Journal of Economic Behavior & Organization_
 
-Vulnerability to and acceptability of different types of sludge (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin), [Cass Sunstein](https://hls.harvard.edu/faculty/cass-r-sunstein/) and [Martin Bækgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk)) **_Accepted at Behavioural Public Policy_**
+Vulnerability to and acceptability of different types of sludge (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin), [Cass Sunstein](https://hls.harvard.edu/faculty/cass-r-sunstein/) and [Martin Bækgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk)) _Accepted at Behavioural Public Policy_
 
 <!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
 
@@ -94,7 +94,7 @@ Vulnerability to and acceptability of different types of sludge (with [Leonhard 
 
 [Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.-->
 
-[Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). **_Journal of Behavioral and Experimental Economics,_**  115:102336.
+[Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). _Journal of Behavioral and Experimental Economics,_  115:102336.
 
 [Getik, D.](https://www.durham.ac.uk/business/our-people/demid-getik/), [Islam, M.](https://sites.google.com/view/marcoislam/), & Samahita, M. (2024). [The inelastic demand for affirmative action](https://doi.org/10.1016/j.euroecorev.2024.104862). **_European Economic Review,_** 170:104862. [[twitter]](https://x.com/msamahita/status/1838574632204370175)
 
