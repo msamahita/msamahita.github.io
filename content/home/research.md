@@ -58,7 +58,7 @@ subtitle = ""
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20) _Submitted_
 
-[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/)) _Revise and Resubmit at Journal of Economic Behavior & Organization_
+[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/)) _Accepted at Journal of Economic Behavior & Organization_
 
 {{% staticref "files/SludgeVulnerabilityAcceptance.pdf" "newtab" %}}Vulnerability to and acceptability of different types of sludge{{% /staticref %}} (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin), [Cass Sunstein](https://hls.harvard.edu/faculty/cass-r-sunstein/) and [Martin Bækgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk)) _Accepted at Behavioural Public Policy_
 
