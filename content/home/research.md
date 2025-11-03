@@ -94,7 +94,7 @@ subtitle = ""
 [Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.-->
 
 
-[Lades, L. K.](https://sites.google.com/site/leonhardklades/home), Samahita, M., [Martin, L.](https://www.esri.ie/people/lucie-martin), [Sunstein, C. R.](https://hls.harvard.edu/faculty/cass-r-sunstein/), & [Baekgaard, M.](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk) (2025). [Vulnerability to and acceptability of different types of sludge](doi.org/10.1017/bpp.2025.10020). _Behavioural Public Policy,_ 1-30.
+[Lades, L. K.](https://sites.google.com/site/leonhardklades/home), Samahita, M., [Martin, L.](https://www.esri.ie/people/lucie-martin), [Sunstein, C. R.](https://hls.harvard.edu/faculty/cass-r-sunstein/), & [Baekgaard, M.](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk) (2025). [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020). _Behavioural Public Policy,_ 1-30.
 
 [Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). _Journal of Behavioral and Experimental Economics,_  115:102336.
 
