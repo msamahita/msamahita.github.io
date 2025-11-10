@@ -106,7 +106,7 @@ Samahita, M., & [Devereux, K.](https://kevindevereux.com/) (2024). [Are economic
 
 Samahita, M., & [Lades, L. K.](https://sites.google.com/site/leonhardklades/home) (2023). [Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337). _Journal of Behavioral Public Administration,_ 6(1):1-30. [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
 
-[Conzo, P.](http://www.pieroconzo.altervista.org/wordpress/) ⓡ [Taylor, L. K.](https://lauraktaylor.wordpress.com/) ⓡ [Morales, J. S.](https://sites.google.com/view/jsmorales) ⓡ Samahita, M. ⓡ [Gallice, A.](http://www.andreagallice.eu/) (2023). [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899). _Social Media + Society,_ 9(2). Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}. [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322) [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
+[Conzo, P.](http://www.pieroconzo.altervista.org/wordpress/) ⓡ [Taylor, L. K.](https://lauraktaylor.wordpress.com/) ⓡ [Morales, J. S.](https://sites.google.com/view/jsmorales) ⓡ Samahita, M. ⓡ [Gallice, A.](https://sites.google.com/carloalberto.org/andreagallice) (2023). [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899). _Social Media + Society,_ 9(2). Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}. [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322) [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
 
 Samahita, M., & [Holm, H. J.](https://sites.google.com/site/hakanjholm/) (2023). [No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612). _Journal of Economic Psychology,_ 96:102612. [[twitter]](https://twitter.com/msamahita/status/1625131216788721665?s=20)
 
@@ -140,7 +140,7 @@ Rebalancing work: Gender perception, job design, and occupational dynamics (with
 
 Who is most influenced by sludge? Experimental evidence (with [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a) and [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
-Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](http://www.andreagallice.eu/) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
+Perceived popularity and social influence (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](https://sites.google.com/carloalberto.org/andreagallice) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
 <!--- Partisanship and collaborative fact-checking (with [Taha Yasseri](https://tahayasseri.com/)) --->
 
