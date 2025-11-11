@@ -58,9 +58,6 @@ subtitle = ""
 
 [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20) _Submitted_
 
-[Anchoring and subjective belief distributions](https://www.ucd.ie/economics/t4media/WP2024_07.pdf) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) and [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/)) _Accepted at Journal of Economic Behavior & Organization_
-
-
 <!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
 
 &nbsp; 
@@ -92,6 +89,8 @@ subtitle = ""
 [Pay-what-you-want pricing schemes: A self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom Abraha Kahsay](https://sites.google.com/view/gakahsay/)). **_Journal of Behavioral and Experimental Finance,_** 2015, 7:17-28.
 
 [Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). **_Economics Bulletin,_** 2013, 33(1):152-157.-->
+
+[Holm, H. J.](https://sites.google.com/site/hakanjholm/), Samahita, M., [Wengström, E.](https://sites.google.com/site/erikwengstrom/) & [van Veldhuizen, R.](https://sites.google.com/site/roelvanveldhuizen/) (2025). [Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304). _Journal of Economic Behavior & Organization,_ 240:107304.
 
 
 [Lades, L. K.](https://sites.google.com/site/leonhardklades/home), Samahita, M., [Martin, L.](https://www.esri.ie/people/lucie-martin), [Sunstein, C. R.](https://hls.harvard.edu/faculty/cass-r-sunstein/), & [Baekgaard, M.](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk) (2025). [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020). _Behavioural Public Policy,_ 1-30.
