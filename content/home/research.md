@@ -54,7 +54,7 @@ subtitle = ""
 
 {{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) _Reject and Resubmit at Journal of Human Resources_
 
-{{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at Journal of Economic Behavior & Organization_ 
+{{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at Journal of Economic Behavior & Organization_  
 Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
 {{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}} _Revise and Resubmit at Journal of Behavioral and Experimental Economics_ 
