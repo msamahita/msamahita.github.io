@@ -50,22 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## Working Papers
-
-{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) _Reject and Resubmit at **Journal of Human Resources**_ 
-
-{{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at **Journal of Economic Behavior & Organization**_  
-Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
-
-{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}} _Revise and Resubmit at **Journal of Behavioral and Experimental Economics**_
-
-[The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/html/2601.22201v1) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
-
-
-<!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
-
-&nbsp; 
-
 ## Journal Articles
 
 [Holm, H. J.](https://sites.google.com/site/hakanjholm/), Samahita, M., [Wengström, E.](https://sites.google.com/site/erikwengstrom/) & [van Veldhuizen, R.](https://sites.google.com/site/roelvanveldhuizen/) (2025). [Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304). _**Journal of Economic Behavior & Organization,**_ 240:107304.
@@ -102,9 +86,38 @@ Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing s
 
 &nbsp; 
 
+## Large-scale Research Collaborations
+
+Aczel, B., Szaszi, B., Kósa, L., Torma, Z., Kumpel, H., Clelland, H. T., Hoffmann, S., Kovács, M., Ahnström, L., Holzmeister, F., Nilsonne, G., & the Multi100 Collaboration. (2025). Investigating the analytical robustness of the social and behavioural sciences. _**Nature**_ (accepted).
+
+Huntington-Klein, N., Pörtner, C. C., McCarthy, I., & the Many-Economists Research Collective. (2025). [The sources of researcher variation in economics](https://www.nber.org/papers/w33729). NBER Working Paper No. 33729.
+
+Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., & the Management Science Reproducibility Collaboration. (2024). [Reproducibility in Management Science](https://doi.org/10.1287/mnsc.2023.03556). _**Management Science,**_ 70(3):1343–1356.
+
+Schaerer, M., Du Plessis, C., Nguyen, M. H. B., Van Aert, R. C., Tiokhin, L., Lakens, D., Clemente, E. G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C. J., Uhlmann, E. L., & the Gender Audits Forecasting Collaboration. (2023). [On the trajectory of discrimination: A meta-analysis and forecasting survey capturing 44 years of field experiments on gender and hiring decisions](https://doi.org/10.1016/j.obhdp.2023.104280). _**Organizational Behavior and Human Decision Processes,**_ 179:104280.
+
+Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Clemente, E. G., Gordon, M., Dreber, A., Johannesson, M., Pfeiffer, T., the Hiring Decisions Forecasting Collaboration, & Uhlmann, E. L. (2020). [Creative destruction in science](https://doi.org/10.1016/j.obhdp.2020.07.002). _**Organizational Behavior and Human Decision Processes,**_ 161:291–309.
+
+
 ## Book Chapter
 
 [Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca), Samahita, M., Sonnenschein, J. & Seidl, R. (2020). [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1). In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), _Energy and Behavior: Towards a Low Carbon Future,_ pp. 45–87. London: Academic Press.
+
+&nbsp; 
+
+## Working Papers
+
+{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) _Reject and Resubmit at **Journal of Human Resources**_ 
+
+{{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at **Journal of Economic Behavior & Organization**_  
+Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
+
+{{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}} _Revise and Resubmit at **Journal of Behavioral and Experimental Economics**_
+
+[The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/html/2601.22201v1) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
+
+
+<!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
 
 &nbsp; 
 
