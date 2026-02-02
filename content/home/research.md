@@ -90,13 +90,13 @@ Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing s
 
 Aczel, B., Szaszi, B., Kósa, L., Torma, Z., Kumpel, H., Clelland, H. T., Hoffmann, S., Kovács, M., Ahnström, L., Holzmeister, F., Nilsonne, G., & <u>the Multi100 Collaboration</u>. (2025). Investigating the analytical robustness of the social and behavioural sciences. _**Nature**_ (accepted).
 
-Huntington-Klein, N., Pörtner, C. C., McCarthy, I., & the Many-Economists Research Collective. (2025). [The sources of researcher variation in economics](https://www.nber.org/papers/w33729). NBER Working Paper No. 33729.
+Huntington-Klein, N., Pörtner, C. C., McCarthy, I., & <u>the Many-Economists Research Collective</u>. (2025). [The sources of researcher variation in economics](https://www.nber.org/papers/w33729). NBER Working Paper No. 33729.
 
-Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., & the Management Science Reproducibility Collaboration. (2024). [Reproducibility in Management Science](https://doi.org/10.1287/mnsc.2023.03556). _**Management Science,**_ 70(3):1343–1356.
+Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., & <u>the Management Science Reproducibility Collaboration</u>. (2024). [Reproducibility in Management Science](https://doi.org/10.1287/mnsc.2023.03556). _**Management Science,**_ 70(3):1343–1356.
 
-Schaerer, M., Du Plessis, C., Nguyen, M. H. B., Van Aert, R. C., Tiokhin, L., Lakens, D., Clemente, E. G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C. J., Uhlmann, E. L., & the Gender Audits Forecasting Collaboration. (2023). [On the trajectory of discrimination: A meta-analysis and forecasting survey capturing 44 years of field experiments on gender and hiring decisions](https://doi.org/10.1016/j.obhdp.2023.104280). _**Organizational Behavior and Human Decision Processes,**_ 179:104280.
+Schaerer, M., Du Plessis, C., Nguyen, M. H. B., Van Aert, R. C., Tiokhin, L., Lakens, D., Clemente, E. G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C. J., Uhlmann, E. L., & <u>the Gender Audits Forecasting Collaboration</u>. (2023). [On the trajectory of discrimination: A meta-analysis and forecasting survey capturing 44 years of field experiments on gender and hiring decisions](https://doi.org/10.1016/j.obhdp.2023.104280). _**Organizational Behavior and Human Decision Processes,**_ 179:104280.
 
-Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Clemente, E. G., Gordon, M., Dreber, A., Johannesson, M., Pfeiffer, T., the Hiring Decisions Forecasting Collaboration, & Uhlmann, E. L. (2020). [Creative destruction in science](https://doi.org/10.1016/j.obhdp.2020.07.002). _**Organizational Behavior and Human Decision Processes,**_ 161:291–309.
+Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Clemente, E. G., Gordon, M., Dreber, A., Johannesson, M., Pfeiffer, T., <u>the Hiring Decisions Forecasting Collaboration</u>, & Uhlmann, E. L. (2020). [Creative destruction in science](https://doi.org/10.1016/j.obhdp.2020.07.002). _**Organizational Behavior and Human Decision Processes,**_ 161:291–309.
 
 &nbsp; 
 
