@@ -98,6 +98,7 @@ Schaerer, M., Du Plessis, C., Nguyen, M. H. B., Van Aert, R. C., Tiokhin, L., La
 
 Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Clemente, E. G., Gordon, M., Dreber, A., Johannesson, M., Pfeiffer, T., the Hiring Decisions Forecasting Collaboration, & Uhlmann, E. L. (2020). [Creative destruction in science](https://doi.org/10.1016/j.obhdp.2020.07.002). _**Organizational Behavior and Human Decision Processes,**_ 161:291–309.
 
+&nbsp; 
 
 ## Book Chapter
 
@@ -115,7 +116,6 @@ Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/e
 {{% staticref "files/LuxuryBeliefs.pdf" "newtab" %}}"Luxury beliefs": Signaling through ideology?{{% /staticref %}} _Revise and Resubmit at **Journal of Behavioral and Experimental Economics**_
 
 [The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/html/2601.22201v1) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
-
 
 <!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
 
