@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#f0f0f0"
+  # color = "#f0f0f0"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -47,7 +47,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "alt-section"
 +++
 
 ## Working Papers
