@@ -13,9 +13,9 @@ user_groups:
 ---
 I am Assistant Professor at the [School of Economics](https://www.ucd.ie/economics/), [University College Dublin](https://www.ucd.ie/) and Research Fellow at the [Geary Institute for Public Policy](https://www.ucd.ie/geary/). I hold a PhD in Economics from [Lund University](https://nek.lu.se/en).
 
-My research is in **behavioural economics**, where I use theoretical, empirical and (primarily) experimental methods to study individual decision-making. I focus on how social image, norms, and beliefs shape behaviour in labour markets and institutional settings.
+My research is in **behavioural economics**, where I use theoretical, empirical and (primarily) experimental methods to study individual decision-making. In particular, I focus on how social image, norms, and beliefs shape behaviour in labour markets and institutional settings.
 
-<!-- In particular, I focus on the effects of social norms, social influence, self-image, social image, emotions and self-control. More recently, I am also interested in studying online political behaviour and how information shapes political preferences. -->
+<!-- Her current research focuses on the effects of social influence on online behaviour and political preferences. More recently, she is also interested in studying gender differences in economics and the causes and consequences of gender norms. -->
 
 <!--I am a member of the [Behavioural Science & Policy Group](https://bsp.ucd.ie/) and an affiliated researcher at the [Connected_Politics Lab](https://www.ucd.ie/connected_politics/) at UCD. -->
 
