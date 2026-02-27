@@ -51,12 +51,13 @@ subtitle = ""
 +++
 
 ## Journal Articles
+Samahita, M. (2026). ["Luxury beliefs": Signaling through ideology?](https://doi.org/10.1016/j.socec.2026.102538). _**Journal of Behavioral and Experimental Economics,**_ 121:102538.
 
 [Holm, H. J.](https://sites.google.com/site/hakanjholm/), Samahita, M., [Wengström, E.](https://sites.google.com/site/erikwengstrom/) & [van Veldhuizen, R.](https://sites.google.com/site/roelvanveldhuizen/) (2025). [Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304). _**Journal of Economic Behavior & Organization,**_ 240:107304.
 
 [Lades, L. K.](https://sites.google.com/site/leonhardklades/home), Samahita, M., [Martin, L.](https://www.esri.ie/people/lucie-martin), [Sunstein, C. R.](https://hls.harvard.edu/faculty/cass-r-sunstein/), & [Baekgaard, M.](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk) (2025). [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020). _**Behavioural Public Policy,**_ 1-30. [[policy brief]](https://publicpolicy.ie/papers/reducing-friction-promoting-fairness-behavioural-perspectives-on-sludge-in-irish-public-services/)
 
-[Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). _**Journal of Behavioral and Experimental Economics,**_  115:102336.
+[Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M., & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). _**Journal of Behavioral and Experimental Economics,**_ 115:102336.
 
 [Getik, D.](https://www.durham.ac.uk/business/our-people/demid-getik/), [Islam, M.](https://sites.google.com/view/marcoislam/), & Samahita, M. (2024). [The inelastic demand for affirmative action](https://doi.org/10.1016/j.euroecorev.2024.104862). _**European Economic Review,**_ 170:104862. [[twitter]](https://x.com/msamahita/status/1838574632204370175)
 
