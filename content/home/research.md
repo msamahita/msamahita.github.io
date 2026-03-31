@@ -67,7 +67,7 @@ Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/e
 
 ## Selected Work in Progress
 
-Paying more or hassling less? Experimental evidence on administrative burdens, incentives, and grant take-up (with [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a) and [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
+Paying more or hassling less? Experimental evidence on administrative burdens, incentives, and grant take-up (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home) and [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a))
 
 Funhouse reflections: Social media perceptions and charitable donations (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](https://sites.google.com/carloalberto.org/andreagallice) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
