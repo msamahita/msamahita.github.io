@@ -57,6 +57,8 @@ subtitle = ""
 {{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at **Journal of Economic Behavior & Organization**_  
 Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
+[Religious behaviour, labour supply, and social Conformity: Evidence from a workplace ban on Muslim religious veiling](https://www.ucd.ie/economics/t4media/WP2026_07.pdf) (with [Kevin Devereux](https://kevindevereux.com/) and [Blair Long](https://sites.google.com/view/blairlongeconomics/))
+
 [The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/abs/2601.22201) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
 
 <!--[The sources of researcher variation in economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665) (with [Nick Huntington-Klein](https://nickchk.com/), [Claus Pörtner](https://clausportner.com/), and as part of the Many-Economists Research Collective) [[I4R]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf) [[IZA]](https://www.econstor.eu/bitstream/10419/312260/1/I4R-DP209.pdf)-->
@@ -65,18 +67,10 @@ Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/e
 
 ## Selected Work in Progress
 
-Rebalancing work: Gender perception, job design, and occupational dynamics (with [Petru Calenici](https://www.linkedin.com/in/petru-calenici/) and [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/))
+Paying more or hassling less? Experimental evidence on administrative burdens, incentives, and grant take-up (with [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a) and [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
 
-Administrative burdens, incentives, and take-up of grants: Evidence from a real-effort task experiment (with [Glenn McNamara](https://ie.linkedin.com/in/glenn-mcnamara-16684214a) and [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))
+Funhouse reflections: Social media perceptions and charitable donations (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](https://sites.google.com/carloalberto.org/andreagallice) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
 
-Funhouse reflections: Social media perceptions and charitable donation (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Andrea Gallice](https://sites.google.com/carloalberto.org/andreagallice) and [Juan S. Morales](https://sites.google.com/view/jsmorales))
+Manager gender and employee preferences: Evidence from a survey experiment (with [Petru Calenici](https://www.linkedin.com/in/petru-calenici/) and [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/))
 
-Working and veiling: Muslim religious behaviour and labour force participation in Canada (with [Kevin Devereux](https://kevindevereux.com/) and [Blair Long](https://sites.google.com/view/blairlongeconomics/))
-
-
-
-
-
-
-
-
+Ambiguity and the variance of gambles: An experiment (with [Yung-Shiang Jasmine Yang](https://y-sjasmineyang.github.io/) and [Karl Whelan](https://www.karlwhelan.com/)
