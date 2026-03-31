@@ -57,7 +57,7 @@ subtitle = ""
 {{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at **Journal of Economic Behavior & Organization**_  
 Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
-[Religious behaviour, labour supply, and social Conformity: Evidence from a workplace ban on Muslim religious veiling](https://www.ucd.ie/economics/t4media/WP2026_07.pdf) (with [Kevin Devereux](https://kevindevereux.com/) and [Blair Long](https://sites.google.com/view/blairlongeconomics/))
+[Religious behaviour, labour supply, and social conformity: Evidence from a workplace ban on Muslim religious veiling](https://www.ucd.ie/economics/t4media/WP2026_07.pdf) (with [Kevin Devereux](https://kevindevereux.com/) and [Blair Long](https://sites.google.com/view/blairlongeconomics/))
 
 [The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/abs/2601.22201) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
 
@@ -73,4 +73,4 @@ Funhouse reflections: Social media perceptions and charitable donations (with [P
 
 Manager gender and employee preferences: Evidence from a survey experiment (with [Petru Calenici](https://www.linkedin.com/in/petru-calenici/) and [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/))
 
-Ambiguity and the variance of gambles: An experiment (with [Yung-Shiang Jasmine Yang](https://y-sjasmineyang.github.io/) and [Karl Whelan](https://www.karlwhelan.com/)
+Ambiguity and the variance of gambles: An experiment (with [Yung-Shiang Jasmine Yang](https://y-sjasmineyang.github.io/) and [Karl Whelan](https://www.karlwhelan.com/))
