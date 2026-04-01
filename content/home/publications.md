@@ -89,7 +89,7 @@ Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing s
 
 ## Large-scale Research Collaborations
 
-Aczel, B., Szaszi, B., Kósa, L., Torma, Z., Kumpel, H., Clelland, H. T., Hoffmann, S., Kovács, M., Ahnström, L., Holzmeister, F., Nilsonne, G., & <u>the Multi100 Collaboration</u>. (2025). Investigating the analytical robustness of the social and behavioural sciences. _**Nature**_ (accepted).
+Aczel, B., Szaszi, B., Kósa, L., Torma, Z., Kumpel, H., Clelland, H. T., Hoffmann, S., Kovács, M., Ahnström, L., Holzmeister, F., Nilsonne, G., & <u>the Multi100 Collaboration</u>. (2026). [Investigating the analytical robustness of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-09844-9). _**Nature,**_ 652:135–142.
 
 Huntington-Klein, N., Pörtner, C. C., McCarthy, I., & <u>the Many-Economists Research Collective</u>. (2025). [The sources of researcher variation in economics](https://www.nber.org/papers/w33729). NBER Working Paper No. 33729.
 
