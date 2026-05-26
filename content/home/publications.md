@@ -107,7 +107,7 @@ Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Cleme
 
 &nbsp; 
 
-## Other Publications
+## Policy Papers
 
 Augustenborg, C., Lentz, P., Lades, L., Samahita, M. & Martin, L. (2026). [Assessing administrative burdens as barriers to implementation of Ireland’s Climate Action Plan](https://www.epa.ie/publications/research/climate-change/research-513-assessing-administrative-burdens-as-barriers-to-implementation-of-irelands-climate-action-plan.php). Environmental Protection Agency Research Report 513.
 
