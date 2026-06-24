@@ -23,7 +23,7 @@ My research is in **behavioural economics**, where I use theoretical, empirical 
 
 <!--**Research Interests:** Behavioral Economics, Experimental Economics, Gender Economics, Political Economy-->
 
-**Contact:** [m.samahita@gmail.com](mailto:m.samahita@gmail.com)
+**Contact:** [margaret.samahita@ucd.ie](mailto:margaret.samahita@ucd.ie)
 
 **CV:** [{{% staticref "files/cv.pdf" "newtab" %}}pdf{{% /staticref %}}]
 
