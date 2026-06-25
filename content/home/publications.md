@@ -109,6 +109,8 @@ Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Cleme
 
 ## Policy Papers
 
+Samahita, M. & O'Donnell, C. (2026). [Luxury beliefs, distributional fairness and public policy in Ireland](https://publicpolicy.ie/papers/luxury-beliefs-distributional-fairness-and-public-policy-in-ireland/). PublicPolicy.ie Policy Paper.
+
 Augustenborg, C., Lentz, P., Lades, L., Samahita, M. & Martin, L. (2026). [Assessing administrative burdens as barriers to implementation of Ireland’s Climate Action Plan](https://www.epa.ie/publications/research/climate-change/research-513-assessing-administrative-burdens-as-barriers-to-implementation-of-irelands-climate-action-plan.php). Environmental Protection Agency Research Report 513.
 
 Samahita, M. & Lades, L. K. (2026). [Reducing friction, promoting fairness: Behavioural perspectives on sludge in Irish public services](https://publicpolicy.ie/papers/reducing-friction-promoting-fairness-behavioural-perspectives-on-sludge-in-irish-public-services/). PublicPolicy.ie Policy Paper.
