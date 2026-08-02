@@ -50,12 +50,10 @@ subtitle = ""
  css_class = "publications"
 +++
 
-## Journal Articles
+## Economics
 Samahita, M. (2026). ["Luxury beliefs": Signaling through ideology?](https://doi.org/10.1016/j.socec.2026.102538) _**Journal of Behavioral and Experimental Economics,**_ 121:102538.
 
 [Holm, H. J.](https://sites.google.com/site/hakanjholm/), Samahita, M., [Wengström, E.](https://sites.google.com/site/erikwengstrom/) & [van Veldhuizen, R.](https://sites.google.com/site/roelvanveldhuizen/) (2025). [Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304). _**Journal of Economic Behavior & Organization,**_ 240:107304.
-
-[Lades, L. K.](https://sites.google.com/site/leonhardklades/home), Samahita, M., [Martin, L.](https://www.esri.ie/people/lucie-martin), [Sunstein, C. R.](https://hls.harvard.edu/faculty/cass-r-sunstein/) & [Baekgaard, M.](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk) (2025). [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020). _**Behavioural Public Policy,**_ 1-30.
 
 [Lago, M. E.](https://sites.google.com/view/manuelestevolago/), Samahita, M. & [Doyle, O.](https://people.ucd.ie/orla.doyle) (2025). [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336). _**Journal of Behavioral and Experimental Economics,**_ 115:102336.
 
@@ -65,15 +63,9 @@ Samahita, M. & [Devereux, K.](https://kevindevereux.com/) (2024). [Are economics
 
 [Devereux, K.](https://kevindevereux.com/) & Samahita, M. (2023). [Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf). _**Economics Bulletin,**_ 43(3):1225-1234. [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-Samahita, M. & [Lades, L. K.](https://sites.google.com/site/leonhardklades/home) (2023). [Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337). _**Journal of Behavioral Public Administration,**_ 6(1):1-30. [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
-
-[Conzo, P.](http://www.pieroconzo.altervista.org/wordpress/) ⓡ [Taylor, L. K.](https://lauraktaylor.wordpress.com/) ⓡ [Morales, J. S.](https://sites.google.com/view/jsmorales) ⓡ Samahita, M. ⓡ [Gallice, A.](https://sites.google.com/carloalberto.org/andreagallice) (2023). [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899). _**Social Media + Society,**_ 9(2). Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}. [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322) [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
-
 Samahita, M. & [Holm, H. J.](https://sites.google.com/site/hakanjholm/) (2023). [No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612). _**Journal of Economic Psychology,**_ 96:102612. [[twitter]](https://twitter.com/msamahita/status/1625131216788721665?s=20)
 
 [Ek, C.](https://sites.google.com/site/claesek/) & Samahita, M. (2023). [Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019). _**Journal of Economic Behavior & Organization,**_ 208:21-38. {{% staticref "files/commitment_oa.pdf" "newtab" %}}[online appendices]{{% /staticref %}} [[twitter]](https://twitter.com/msamahita/status/1628698387313827845?s=20)
-
-[Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca) & Samahita, M. (2020). [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319). _**Energy Research & Social Science,**_ 60:101319.
 
 Samahita, M. (2020). [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063). _**The B.E. Journal of Theoretical Economics,**_ 20(1):20180063. {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
 
@@ -84,6 +76,20 @@ Samahita, M. (2017). [Venting and gossiping in conflicts: Verbal expression in u
 [Kahsay, G. A.](https://sites.google.com/view/gakahsay/) & Samahita, M. (2015). [Pay-what-you-want pricing schemes: A self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001). _**Journal of Behavioral and Experimental Finance,**_ 7:17-28.
 
 Samahita, M. (2013). [Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf). _**Economics Bulletin,**_ 33(1):152-157.
+
+&nbsp; 
+
+## Interdisciplinary
+
+[Lades, L. K.](https://sites.google.com/site/leonhardklades/home), Samahita, M., [Martin, L.](https://www.esri.ie/people/lucie-martin), [Sunstein, C. R.](https://hls.harvard.edu/faculty/cass-r-sunstein/) & [Baekgaard, M.](https://ps.au.dk/en/contact/staff/show/person/martinb@ps.au.dk) (2025). [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020). _**Behavioural Public Policy,**_ 1-30.
+
+Samahita, M. & [Lades, L. K.](https://sites.google.com/site/leonhardklades/home) (2023). [Compliance spending aversion: An unintended consequence of charity regulation](https://doi.org/10.30636/jbpa.61.337). _**Journal of Behavioral Public Administration,**_ 6(1):1-30. [[twitter]](https://twitter.com/msamahita/status/1696490599589789934?s=20)
+
+[Conzo, P.](http://www.pieroconzo.altervista.org/wordpress/) ⓡ [Taylor, L. K.](https://lauraktaylor.wordpress.com/) ⓡ [Morales, J. S.](https://sites.google.com/view/jsmorales) ⓡ Samahita, M. ⓡ [Gallice, A.](https://sites.google.com/carloalberto.org/andreagallice) (2023). [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899). _**Social Media + Society,**_ 9(2). Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}. [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322) [[twitter]](https://twitter.com/msamahita/status/1357708725981708289?s=20)
+
+[Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca) & Samahita, M. (2020). [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319). _**Energy Research & Social Science,**_ 60:101319.
+
+[Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca), Samahita, M., Sonnenschein, J. & Seidl, R. (2020). [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1). In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), _Energy and Behavior: Towards a Low Carbon Future,_ pp. 45–87. London: Academic Press.
 
 &nbsp; 
 
@@ -98,12 +104,6 @@ Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A. & <u>the Management Sci
 Schaerer, M., Du Plessis, C., Nguyen, M. H. B., Van Aert, R. C., Tiokhin, L., Lakens, D., Clemente, E. G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C. J., <u>the Gender Audits Forecasting Collaboration</u> & Uhlmann, E. L. (2023). [On the trajectory of discrimination: A meta-analysis and forecasting survey capturing 44 years of field experiments on gender and hiring decisions](https://doi.org/10.1016/j.obhdp.2023.104280). _**Organizational Behavior and Human Decision Processes,**_ 179:104280.
 
 Tierney, W., Hardy III, J. H., Ebersole, C. R., Leavitt, K., Viganola, D., Clemente, E. G., Gordon, M., Dreber, A., Johannesson, M., Pfeiffer, T., <u>the Hiring Decisions Forecasting Collaboration</u> & Uhlmann, E. L. (2020). [Creative destruction in science](https://doi.org/10.1016/j.obhdp.2020.07.002). _**Organizational Behavior and Human Decision Processes,**_ 161:291–309.
-
-&nbsp; 
-
-## Book Chapter
-
-[Mundaca, L.](https://www.iiiee.lu.se/luis-mundaca), Samahita, M., Sonnenschein, J. & Seidl, R. (2020). [Behavioural economics for energy and climate change policies and the transition to a sustainable energy use: A Scandinavian perspective](https://doi.org/10.1016/B978-0-12-818567-4.00004-1). In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), _Energy and Behavior: Towards a Low Carbon Future,_ pp. 45–87. London: Academic Press.
 
 &nbsp; 
 
