@@ -52,10 +52,10 @@ subtitle = ""
 
 ## Working Papers
 
-{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) _Reject and Resubmit at **Journal of Human Resources**_ 
-
-{{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Revise and Resubmit at **Journal of Economic Behavior & Organization**_  
+{{% staticref "files/ConformitySilence.pdf" "newtab" %}}Conformity and silence: Experimental evidence on social pressure and free speech{{% /staticref %}} (with [Juan S. Morales](https://sites.google.com/view/jsmorales)) _Accepted at **Journal of Economic Behavior & Organization**_  
 Previous version: [Can social pressure stifle free speech?](https://www.ucd.ie/economics/t4media/WP23_19.pdf) [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
+
+{{% staticref "files/StrategicConfidence.pdf" "newtab" %}}Strategic confidence? The gender confidence gap and anticipated discrimination in economics peer-review{{% /staticref %}} (with [Martina Zanella](https://sites.google.com/view/martina-zanella/)) _Reject and Resubmit at **Journal of Human Resources**_ 
 
 [Religious behaviour, labour supply, and social conformity: Evidence from a workplace ban on Muslim religious veiling](https://www.ucd.ie/economics/t4media/WP2026_07.pdf) (with [Kevin Devereux](https://kevindevereux.com/) and [Blair Long](https://sites.google.com/view/blairlongeconomics/))
 
