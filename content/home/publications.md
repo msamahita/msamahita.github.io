@@ -95,9 +95,9 @@ Samahita, M. & [Lades, L. K.](https://sites.google.com/site/leonhardklades/home)
 
 ## Large-scale Research Collaborations
 
-Aczel, B., Szaszi, B., Clelland, H. T., Kovács, M., Holzmeister, F., van Ravenzwaaij, D., Schulz-Kümpel, H., Hoffmann, S., Nilsonne, G., Kosa, L., Torma, Z. A., <u>the Multi100 Collaboration</u> & Nosek, B. A. (2026). [Investigating the analytical robustness of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-09844-9). _**Nature,**_ 652:135–142.
+Huntington-Klein, N., Pörtner, C. C., McCarthy, I. & <u>the Many-Economists Research Collective</u>. (2026). [The sources of researcher variation in economics](https://www.nber.org/papers/w33729). _Accepted at **Journal of Economic Literature.**_
 
-Huntington-Klein, N., Pörtner, C. C., McCarthy, I. & <u>the Many-Economists Research Collective</u>. (2025). [The sources of researcher variation in economics](https://www.nber.org/papers/w33729). _Accepted at **Journal of Economic Literature.**_
+Aczel, B., Szaszi, B., Clelland, H. T., Kovács, M., Holzmeister, F., van Ravenzwaaij, D., Schulz-Kümpel, H., Hoffmann, S., Nilsonne, G., Kosa, L., Torma, Z. A., <u>the Multi100 Collaboration</u> & Nosek, B. A. (2026). [Investigating the analytical robustness of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-09844-9). _**Nature,**_ 652:135–142.
 
 Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A. & <u>the Management Science Reproducibility Collaboration</u>. (2024). [Reproducibility in Management Science](https://doi.org/10.1287/mnsc.2023.03556). _**Management Science,**_ 70(3):1343–1356.
 
