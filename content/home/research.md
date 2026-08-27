@@ -70,3 +70,5 @@ Funhouse reflections: Social media perceptions and charitable donations (with [P
 Manager gender and employee preferences: Evidence from a survey experiment (with [Petru Calenici](https://www.linkedin.com/in/petru-calenici/) and [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/))
 
 Ambiguity and the variance of gambles: An experiment (with [Yung-Shiang Jasmine Yang](https://y-sjasmineyang.github.io/) and [Karl Whelan](https://www.karlwhelan.com/))
+
+Luxury beliefs and welfare loss: Ignorance, horizontal or vertical signalling? (with [Demid Getik](https://www.durham.ac.uk/business/our-people/demid-getik/))
