@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 ## Economics
-[Morales, J. S.](https://sites.google.com/view/jsmorales) & Samahita, M. (2026). [Conformity and silence: Experimental evidence on social pressure and free speech](https://doi.org/10.1016/j.jebo.2026.107725). _**Journal of Economic Behavior & Organization,**_ 249:107725.
+[Morales, J. S.](https://sites.google.com/view/jsmorales) & Samahita, M. (2026). [Conformity and silence: Experimental evidence on social pressure and free speech](https://doi.org/10.1016/j.jebo.2026.107725). _**Journal of Economic Behavior & Organization,**_ 249:107725.  [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
 
 Samahita, M. (2026). ["Luxury beliefs": Signaling through ideology?](https://doi.org/10.1016/j.socec.2026.102538) _**Journal of Behavioral and Experimental Economics,**_ 121:102538.
 
