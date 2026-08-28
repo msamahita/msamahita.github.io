@@ -54,8 +54,6 @@ subtitle = ""
 [Conformity and silence: Experimental evidence on social pressure and free speech](https://doi.org/10.1016/j.jebo.2026.107725) (with [Juan S. Morales](https://sites.google.com/view/jsmorales))  
 _**Journal of Economic Behavior & Organization,**_ 2026, 249: 107725
 
-[Morales, J. S.](https://sites.google.com/view/jsmorales) & Samahita, M. (2026). [Conformity and silence: Experimental evidence on social pressure and free speech](https://doi.org/10.1016/j.jebo.2026.107725). _**Journal of Economic Behavior & Organization,**_ 249:107725.  [[twitter]](https://twitter.com/juansemorales/status/1694010207477563517?s=20)
-
 Samahita, M. (2026). ["Luxury beliefs": Signaling through ideology?](https://doi.org/10.1016/j.socec.2026.102538) _**Journal of Behavioral and Experimental Economics,**_ 121:102538.
 
 [Holm, H. J.](https://sites.google.com/site/hakanjholm/), Samahita, M., [Wengström, E.](https://sites.google.com/site/erikwengstrom/) & [van Veldhuizen, R.](https://sites.google.com/site/roelvanveldhuizen/) (2025). [Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304). _**Journal of Economic Behavior & Organization,**_ 240:107304.
