@@ -52,8 +52,8 @@ subtitle = ""
 
 ## Current Teaching
 
-[Advanced Microeconomics](https://www.ucd.ie/modules/ECON41810) - MSc Economics.
+[Advanced Microeconomics](https://www.ucd.ie/modules/ECON41810) - MSc Economics
 
-[Decision Theory](https://www.ucd.ie/modules/ECON42630) - MSc Economics.
+[Decision Theory](https://www.ucd.ie/modules/ECON42630) - MSc Economics
 
-[Economics of Gender](https://www.ucd.ie/modules/ECON30590) - BSc Economics.
+[Economics of Gender](https://www.ucd.ie/modules/ECON30590) - BSc Economics
