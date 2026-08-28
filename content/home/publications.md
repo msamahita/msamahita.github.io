@@ -87,7 +87,7 @@ _**Journal of Economic Behavior & Organization,**_ 2018, 148: 83–104 [[radio]]
 [Venting and gossiping in conflicts: Verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003)  
 _**Journal of Behavioral and Experimental Economics,**_ 2017, 67: 111–121
 
-[Pay-what-you-want pricing schemes: A self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom A. Kahsay](https://sites.google.com/view/gakahsay/))  
+[Pay-what-you-want pricing schemes: A self-image perspective](https://doi.org/10.1016/j.jbef.2015.05.001) (with [Goytom Abraha Kahsay](https://sites.google.com/view/gakahsay/))  
 _**Journal of Behavioral and Experimental Finance,**_ 2015, 7: 17–28
 
 [Effect of effort on self-image: Monotonically increasing self-image functions](http://www.accessecon.com/Pubs/EB/2013/Volume33/EB-13-V33-I1-P14.pdf)  
