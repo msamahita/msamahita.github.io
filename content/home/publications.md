@@ -105,7 +105,7 @@ _**Journal of Behavioral Public Administration,**_ 2023, 6(1): 1–30
 
 [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) & [Andrea Gallice](https://sites.google.com/carloalberto.org/andreagallice))  
 _**Social Media + Society,**_ 2023, 9(2) [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322)  
-Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}.
+Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with [Luis Mundaca](https://www.iiiee.lu.se/luis-mundaca))  
 _**Energy Research & Social Science,**_ 2020, 60: 101319
