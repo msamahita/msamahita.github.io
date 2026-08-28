@@ -104,7 +104,7 @@ _**Behavioural Public Policy,**_ 2025, 1–30
 _**Journal of Behavioral Public Administration,**_ 2023, 6(1): 1–30
 
 [Can ♥s change minds? Social media endorsements and policy preferences](https://doi.org/10.1177/20563051231177899) (with [Pierluigi Conzo](http://www.pieroconzo.altervista.org/wordpress/), [Laura K. Taylor](https://lauraktaylor.wordpress.com/), [Juan S. Morales](https://sites.google.com/view/jsmorales) & [Andrea Gallice](https://sites.google.com/carloalberto.org/andreagallice))  
-_**Social Media + Society,**_ 2023, 9(2) [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322)
+_**Social Media + Society,**_ 2023, 9(2) [[the conversation]](https://theconversation.com/can-s-change-minds-how-social-media-influences-public-opinion-and-news-circulation-212322)  
 Erratum: Figure 5 right panel should be {{% staticref "files/compl_apr2021_all.png" "newtab" %}}this{{% /staticref %}}.
 
 [What drives home solar PV uptake? Subsidies, peer effects and visibility in Sweden](https://doi.org/10.1016/j.erss.2019.101319) (with [Luis Mundaca](https://www.iiiee.lu.se/luis-mundaca))  
@@ -137,12 +137,12 @@ _**Organizational Behavior and Human Decision Processes,**_ 2020, 161: 291–309
 ## Policy Papers
 
 [Luxury beliefs, distributional fairness and public policy in Ireland](https://publicpolicy.ie/papers/luxury-beliefs-distributional-fairness-and-public-policy-in-ireland/) (with Ciara O'Donnell)  
-_**PublicPolicy.ie Policy Paper,**_ 2026
+_PublicPolicy.ie Policy Paper,_ 2026
 
 [Assessing administrative burdens as barriers to implementation of Ireland’s Climate Action Plan](https://www.epa.ie/publications/research/climate-change/research-513-assessing-administrative-burdens-as-barriers-to-implementation-of-irelands-climate-action-plan.php) (with Cara Augustenborg, Patricia Lentz, [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home) & [Lucie Martin](https://www.esri.ie/people/lucie-martin))  
-_**Environmental Protection Agency Research Report 513,**_ 2026
+_Environmental Protection Agency Research Report 513,_ 2026
 
 [Reducing friction, promoting fairness: Behavioural perspectives on sludge in Irish public services](https://publicpolicy.ie/papers/reducing-friction-promoting-fairness-behavioural-perspectives-on-sludge-in-irish-public-services/) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home))  
-_**PublicPolicy.ie Policy Paper,**_ 2026
+_PublicPolicy.ie Policy Paper,_ 2026
 
 &nbsp; 
