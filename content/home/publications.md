@@ -120,7 +120,7 @@ In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), _Energy and Behavior: To
 
 ## Large-scale Research Collaborations
 
-[The sources of researcher variation in economics](https://doi.org/10.1257/jel.20261837) (with Nick Huntington-Klein, Claus C. Portner, Ian McCarthy & <u>the Many Economists Collaborative on Researcher Variation</u>)  
+[The sources of researcher variation in economics](https://www.aeaweb.org/articles?id=10.1257/jel.20261837&&from=f) (with Nick Huntington-Klein, Claus C. Portner, Ian McCarthy & <u>the Many Economists Collaborative on Researcher Variation</u>)  
 _**Journal of Economic Literature,**_ 2026, forthcoming
 
 [Investigating the analytical robustness of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-09844-9) (with Balazs Aczel, Barnabas Szaszi, Harry T. Clelland, Marton Kovács, Felix Holzmeister, Don van Ravenzwaaij, Hannah Schulz-Kümpel, Sabine Hoffmann, Gustav Nilsonne, Livia Kosa, Zoltan A. Torma, <u>the Multi100 Collaboration</u> & Brian A. Nosek)  
