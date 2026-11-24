@@ -98,6 +98,7 @@ _**Economics Bulletin,**_ 2013, 33(1): 152–157
 ## Interdisciplinary
 
 [The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/abs/2601.22201) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
+
 _**Collective Intelligence,**_ 2026, accepted
 
 [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin), [Cass R. Sunstein](https://hls.harvard.edu/faculty/cass-r-sunstein/) & [Martin Baekgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@au.dk))  
