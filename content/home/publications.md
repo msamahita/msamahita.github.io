@@ -97,6 +97,9 @@ _**Economics Bulletin,**_ 2013, 33(1): 152–157
 
 ## Interdisciplinary
 
+[The benefit of collective intelligence in community-based content moderation is limited by overt political signalling](https://arxiv.org/abs/2601.22201) (with [Gabriela Juncosa](https://gabrielajuncosa.github.io/), [Saeedeh Mohammadi](https://www.linkedin.com/in/saeedeh-mohammadi-029b68172/) and [Taha Yasseri](https://tahayasseri.com/))
+_**Collective Intelligence,**_ 2026, accepted
+
 [Vulnerability to and acceptability of different types of sludge](https://doi.org/10.1017/bpp.2025.10020) (with [Leonhard K. Lades](https://sites.google.com/site/leonhardklades/home), [Lucie Martin](https://www.esri.ie/people/lucie-martin), [Cass R. Sunstein](https://hls.harvard.edu/faculty/cass-r-sunstein/) & [Martin Baekgaard](https://ps.au.dk/en/contact/staff/show/person/martinb@au.dk))  
 _**Behavioural Public Policy,**_ 2025, 1–30
 
@@ -117,8 +120,8 @@ In M. Lopes, C. Henggeler Antunes & K. B. Janda (Eds.), _Energy and Behavior: To
 
 ## Large-scale Research Collaborations
 
-[The sources of researcher variation in economics](https://www.nber.org/papers/w33729) (with Nick Huntington-Klein, Claus C. Portner, Ian McCarthy & <u>the Many Economists Collaborative on Researcher Variation</u>)  
-_**Journal of Economic Literature,**_ 2026, accepted
+[The sources of researcher variation in economics](https://doi.org/10.1257/jel.20261837) (with Nick Huntington-Klein, Claus C. Portner, Ian McCarthy & <u>the Many Economists Collaborative on Researcher Variation</u>)  
+_**Journal of Economic Literature,**_ 2026, forthcoming
 
 [Investigating the analytical robustness of the social and behavioural sciences](https://doi.org/10.1038/s41586-025-09844-9) (with Balazs Aczel, Barnabas Szaszi, Harry T. Clelland, Marton Kovács, Felix Holzmeister, Don van Ravenzwaaij, Hannah Schulz-Kümpel, Sabine Hoffmann, Gustav Nilsonne, Livia Kosa, Zoltan A. Torma, <u>the Multi100 Collaboration</u> & Brian A. Nosek)  
 _**Nature,**_ 2026, 652: 135–142
