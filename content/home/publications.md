@@ -57,7 +57,7 @@ _**Journal of Economic Behavior & Organization,**_ 2026, 249: 107725
 [“Luxury beliefs”: Signaling through ideology?](https://doi.org/10.1016/j.socec.2026.102538)  
 _**Journal of Behavioral and Experimental Economics,**_ 2026, 121: 102538
 
-[Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304) (with [Hakan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) & [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))  
+[Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) & [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))  
 _**Journal of Economic Behavior & Organization,**_ 2025, 240: 107304
 
 [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336) (with [Manuel E. Lago](https://sites.google.com/view/manuelestevolago/) & [Orla Doyle](https://people.ucd.ie/orla.doyle))  
@@ -72,7 +72,7 @@ _**Oxford Bulletin of Economics and Statistics,**_ 2024, 86(1): 101–118 [[podc
 [Gender, productivity, and promotion in the Irish economics profession](http://www.accessecon.com/Pubs/EB/2023/Volume43/EB-23-V43-I3-P104.pdf) (with [Kevin Devereux](https://kevindevereux.com/))  
 _**Economics Bulletin,**_ 2023, 43(3): 1225–1234 [[podcast]](https://shows.acast.com/the-irish-economics-podcast/episodes/49-gender-diversity-in-irish-economics-iswe-panel-ii)
 
-[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Hakan J. Holm](https://sites.google.com/site/hakanjholm/))  
+[No mood effects in the field: The case of car inspections](https://doi.org/10.1016/j.joep.2023.102612) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))  
 _**Journal of Economic Psychology,**_ 2023, 96: 102612
 
 [Too much commitment? An online experiment with tempting YouTube content](https://doi.org/10.1016/j.jebo.2023.01.019) (with [Claes Ek](https://sites.google.com/site/claesek/))  
@@ -81,7 +81,7 @@ _**Journal of Economic Behavior & Organization,**_ 2023, 208: 21–38 {{% static
 [Pay-what-you-want in competition](https://doi.org/10.1515/bejte-2018-0063)  
 _**The B.E. Journal of Theoretical Economics,**_ 2020, 20(1): 20180063 {{% staticref "files/samahita_2019.pdf" "newtab" %}}[pdf]{{% /staticref %}}
 
-[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Hakan J. Holm](https://sites.google.com/site/hakanjholm/))  
+[Curating social image: Experimental evidence on the value of actions and selfies](https://doi.org/10.1016/j.jebo.2018.02.008) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/))  
 _**Journal of Economic Behavior & Organization,**_ 2018, 148: 83–104 [[radio]](https://sverigesradio.se/sida/artikel.aspx?programid=2778&artikel=6920541)
 
 [Venting and gossiping in conflicts: Verbal expression in ultimatum games](https://doi.org/10.1016/j.socec.2016.12.003)  
