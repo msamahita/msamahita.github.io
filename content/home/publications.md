@@ -57,7 +57,7 @@ _**Journal of Economic Behavior & Organization,**_ 2026, 249: 107725
 [“Luxury beliefs”: Signaling through ideology?](https://doi.org/10.1016/j.socec.2026.102538)  
 _**Journal of Behavioral and Experimental Economics,**_ 2026, 121: 102538
 
-[Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Erik Wengström](https://sites.google.com/site/erikwengstrom/) & [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/))  
+[Anchoring and subjective belief distributions](https://doi.org/10.1016/j.jebo.2025.107304) (with [Håkan J. Holm](https://sites.google.com/site/hakanjholm/), [Roel van Veldhuizen](https://sites.google.com/site/roelvanveldhuizen/) & [Erik Wengström](https://sites.google.com/site/erikwengstrom/))  
 _**Journal of Economic Behavior & Organization,**_ 2025, 240: 107304
 
 [Unraveling gender norms: Social and personal norms in the preferential promotion of women](https://doi.org/10.1016/j.socec.2025.102336) (with [Manuel E. Lago](https://sites.google.com/view/manuelestevolago/) & [Orla Doyle](https://people.ucd.ie/orla.doyle))  
